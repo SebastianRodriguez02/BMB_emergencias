@@ -1,0 +1,1575 @@
+DIRECCIÓN,BARRIO,X,Y,TIPO,DIÁMETRO HIDRANTE,WGS84 Latitud,WGS84 Longitud
+CRA 19 # 102-52,Fontana,1105980,1275505,Tipo Tráfico,4'',,
+CRA 25 # 18-17,San Francisco,1105624,1280398,Tipo Tráfico,4'',,
+CL 46 # 39-88,"Cabecera del
+Llano",1107285,1279051,Tipo Tráfico,4'',,
+CL 41 # 24-45,Bólivar,1106051,1278974,Tipo Tráfico,4'',,
+CL 19 # 31-45,San Alonso,1106200,1280453,Tipo Tráfico,4'',,
+AV LOS BUCAROS # 3-155,"Ciudadela Real de
+Minas",1104990,1277426,Tipo Tráfico,4'',,
+AV LOS BUCAROS # 3-308,"Ciudadela Real de
+Minas",1105074,1277412,Tipo Tráfico,4'',,
+CL 34 # 29-27,Mejoras Públicas,1106314,1279664,Tipo Tráfico,4'',,
+CRA 15 # 104B-69,Delicias,1105521,1275097,Tipo Tráfico,4'',,
+CRA 20#24,Alarcón,1105251,1279844,Tipo Tráfico,4'',,
+CL 14 # 25-44,San Francisco,1105588,1280813,Tipo Milán,3'',,
+CL 19 # 24-28,San Francisco,1105545,1280301,Tipo Tráfico,4'',,
+CRA 23 # 24-09,Alarcón,1105536,1279942,Tipo Tráfico,4'',,
+CL 36 # 35-13,El Prado,1106798,1279696,Tipo Milán,3'',,
+CL 13 # 25-31,Universidad,1105558,1280876,Tipo Milán,3'',,
+CL 34 # 28-37,Mejoras Públicas,1106235,1279605,Tipo Tráfico,4'',,
+CRA 24 # 10-44,Mutualidad,1105383,1281076,Tipo Tráfico,4'',,
+CL 53 # 47A-13,Terrazas,1107463,1278366,Tipo Tráfico,4'',,
+CL 21 # 29-43,San Alonso,1106070,1280231,Tipo Tráfico,4'',,
+CRA 24 # 17-29,San Francisco,1105512,1280466,Tipo Tráfico,4'',,
+CL 14 # 16-15,Modelo,1104738,1280645,Tipo Tráfico,4'',,
+CL 48 # 18-54,La Concordia,1105766,1278487,Tipo Tráfico,4'',,
+CL 71 # 54-55 LAG CACIQUE,Lagos del Cacique,1108136,1277565,Tipo Tráfico,4'',,
+CL 106 # 25-49,Provenza,1106897,1275472,Tipo Tráfico,4'',,
+"VIA PALENQUE-CAFE Z.INDUST.II
+SECTOR FORJANDES",Río de Oro I,1102271,1281586,Tipo Tráfico,4'',,
+"VIA PALENQUE-CAFE Z.INDUST.II
+SECTOR FORJANDES",Río de Oro I,1102297,1281668,Tipo Tráfico,4'',,
+"VIA PALENQUE-CAFE CRA 8 # 15N-
+10 BODEGA 11",,1102385,1281835,Tipo Tráfico,4'',,
+CRA 8 # 20N-148,"No aplica -
+Bucaramanga",1102380,1281978,Tipo Tráfico,4'',,
+CRA 8 # 20 -148,Café Madrid,1102368,1282171,Tipo Tráfico,4'',,
+CIRCUN 35 # 92-170,El Tejar,1107283,1276862,Tipo Tráfico,6'',,
+CRA 33 # 85-136/ 150,San Martin,1106990,1276848,Tipo Tráfico,4'',,
+CRA 23 # 48-17,Nuevo Sotomayor,1106099,1278610,Tipo Tráfico,4'',,
+CL  45#0-150,Campo Hermoso,1104067,1277906,Tipo Tráfico,6'',,
+CL 20 # 32-15,San Alonso,1106295,1280376,Tipo Tráfico,6'',,
+CRA 23 # 51-46,La Concordia,1106165,1278417,Tipo Tráfico,4'',,
+CRA 28 # 40-37,Mejoras Públicas,1106376,1279273,Tipo Tráfico,4'',,
+CRA 25 # 18-65,San Francisco,1105631,1280355,Tipo Tráfico,4'',,
+GRANJA 8,"Granjas de
+Provenza",1105902,1274825,Tipo Tráfico,4'',,
+CL 30 # 23-70,"Antonia Santos
+centro",1105636,1279785,Tipo Tráfico,4'',,
+CRA 38 # 41-36,"Cabecera del
+Llano",1107057,1279500,Tipo Tráfico,4'',,
+CL 91 # 22-68,Diamante II,1106499,1275871,Tipo Tráfico,4'',,
+CL 42 # 28-72,Mejoras Públicas,1106508,1279229,Tipo Tráfico,4'',,
+CRA 34 # 32-65,"Alvarez las
+Américas",1106759,1280039,Tipo Tráfico,4'',,
+CL 16 # 23-26,San Francisco,1105429,1280578,Tipo Tráfico,4'',,
+CL 105 # 15B-29,Delicias,1105669,1275120,Tipo Tráfico,4'',,
+CRA 29 # 33-08,Mejoras Públicas,1106229,1279725,Tipo Tráfico,4'',,
+"CRA 10-BETANIA SECTOR D-
+PEATONAL 1-CASA 14","Villas de San
+Ignacio",1103451,1282857,Tipo Tráfico,4'',,
+COLSEG NORTE BL 18,Colseguros Norte,1104323,1282196,Tipo Tráfico,4'',,
+CL 7N # 11-33 MIRAMAR,Miramar,1104475,1282145,Tipo Milán,3'',,
+CRA 10 # 9N-23,Minuto de Dios,1104362,1282268,Tipo Milán,3'',,
+CL 28N # 11-02,Altos del Kennedy,1103875,1283283,Tipo Piso,2'',,
+CRA 11 # 13BN-18,Omaga I,1104209,1282539,Tipo Piso,2'',,
+CRA 5 # 15N-04,Maria Paz,1103785,1282356,Tipo Milán,3'',,
+CL 17N # 10-07,Kennedy,1104053,1282732,Tipo Tráfico,4'',,
+CRA 17 # 16-11,Altos del Progreso,1104331,1282803,Tipo Milán,3'',,
+CL 104K # 5A-58,El Porvenir,1104297,1274661,Tipo Milán,3'',,
+DG 11A # 27N-02,Altos del Kennedy,1103936,1283209,Tipo Milán,3'',,
+CRA 12 # 28N-44,Omaga II,1103976,1283334,Tipo Milán,3'',,
+CL 55B # 29-47,Bolarqui,1106678,1278124,Tipo Tráfico,4'',,
+CRA 39 # 48-67,"Cabecera del
+Llano",1107224,1278807,Tipo Tráfico,4'',,
+CRA 39A # 42-106,"Cabecera del
+Llano",1107203,1279297,Tipo Tráfico,4'',,
+CL 51 # 38-14,"Cabecera del
+Llano",1107176,1278676,Tipo Tráfico,4'',,
+CRA 39 # 48-110,"Cabecera del
+Llano",1107224,1278783,Tipo Tráfico,4'',,
+CRA 49 # 64-65,La Floresta,1107497,1277712,Tipo Piso,2'',,
+CRA 38 # 41-108,"Cabecera del
+Llano",1107034,1279442,Tipo Tráfico,4'',,
+CRA 39A # 44-209,"Cabecera del
+Llano",1107239,1279079,Tipo Piso,2'',,
+CL 44 # 36-30 T 1,"Cabecera del
+Llano",1107009,1279245,Tipo Milán,3'',,
+CRA 39 # 48-06,"Cabecera del
+Llano",1107182,1278880,Tipo Tráfico,4'',,
+CL 32 # 34-27,Quinta Brigada,1106804,1280112,Tipo Tráfico,4'',,
+CRA 47#3OCC,Campo Hermoso,1103860,1277533,Tipo Milán,3'',,
+CRA 12A OCC#44,1 de Mayo,1103225,1277328,Tipo Milán,3'',,
+CL 42#8-46,Alfonso López,1104580,1278594,Tipo Tráfico,4'',,
+CRA 9#43-75,Garcia Rovira,1104686,1278453,Tipo Tráfico,4'',,
+CRA 17#46-169,La Concordia,1105537,1278519,Tipo Milán,3'',,
+CRA 13#51,San Miguel,1104997,1277950,Tipo Milán,3'',,
+CL  45 N 8-81,Garcia Rovira,1104782,1278407,Tipo Milán,3'',,
+CRA 4 #37-24,La Joya,1104027,1278615,Tipo Tráfico,3'',,
+CL 41#1,La Joya,1104036,1278275,Tipo Milán,3'',,
+CL 37#2A,La Joya,1103937,1278455,Tipo Milán,3'',,
+CRA 10#43-58,Garcia Rovira,1104756,1278510,Tipo Milán,3'',,
+CL 51#12,Candiles,1104788,1277842,Tipo Tráfico,4'',,
+CRA1#46 ESQUINA,Campo Hermoso,1104134,1277835,Tipo Milán,3'',,
+CL 46 # 5-04,"Chorreras de Don
+Juan",1104430,1278117,Tipo Piso,2'',,
+CL  46#10 OCC-87,Campo Hermoso,1103886,1277661,Tipo Milán,3'',,
+CRA 10O #49,Campo Hermoso,1103638,1277260,Tipo Milán,3'',,
+CL 44#9-19,Garcia Rovira,1104707,1278440,Tipo Tráfico,4'',,
+CL  41#3A-27,La Joya,1104184,1278505,Tipo Milán,3'',,
+CL  52 #16,San Miguel,1105527,1278028,Tipo Milán,3'',,
+CL 37#8 OCC,La Joya,1103537,1278065,Tipo Milán,3'',,
+CL 36 #11OCC-22,Pantano II,1103337,1278098,Tipo Milán,3'',,
+CRA 18#36-45,La Joya,1103147,1277861,Tipo Milán,3'',,
+CRA 21#41-31,Bólivar,1105769,1278870,Tipo Tráfico,4'',,
+CL 17 # 32-31,San Alonso,1106249,1280651,Tipo Tráfico,4'',,
+CRA 41 # 41-71/ 77,"Cabecera del
+Llano",1107292,1279565,Tipo Tráfico,6'',,
+CL 18 # 24-46,San Francisco,1105575,1280423,Tipo Tráfico,4'',,
+CL 30 # 28-60,La Aurora,1106057,1279959,Tipo Tráfico,4'',,
+CRA 39A # 44-23,"Cabecera del
+Llano",1107221,1279269,Tipo Tráfico,4'',,
+CL 37 #5-07,Alfonso López,1104264,1278659,Tipo Tráfico,4'',,
+CL 35 #8-25,Alfonso López,1104459,1278841,Tipo Tráfico,4'',,
+CL 12 # 24-52,Mutualidad,1105471,1280945,Tipo Tráfico,4'',,
+CL 107 # 22A-38,Provenza,1106389,1275241,Tipo Tráfico,4'',,
+CRA 34 # 32-134,"Alvarez las
+Américas",1106717,1279965,Tipo Tráfico,4'',,
+CL 39 # 23-81,Bólivar,1105937,1279091,Tipo Tráfico,4'',,
+CL 19 # 18-31,San Francisco,1105023,1280216,Tipo Tráfico,4'',,
+CRA 40 # 42-11,"Cabecera del
+Llano",1107256,1279420,Tipo Tráfico,4'',,
+CL 21 # 20-32,San Francisco,1105245,1280056,Tipo Tráfico,4'',,
+CRA 17 #13,Modelo,1104773,1280705,Tipo Tráfico,4'',,
+CRA 25 # 33-95 T 1,"Antonia Santos
+centro",1105892,1279470,Tipo Tráfico,4'',,
+CL 3N#15,Chapinero,1104320,1281567,Tipo Tráfico,4'',,
+CL 50 # 27A-41,Sotomayor,1106422,1278666,Tipo Tráfico,4'',,
+CL 3N#15-63,Chapinero,1104373,1281577,Tipo Tráfico,4'',,
+CL 51A # 15-13,San Miguel,1105395,1278025,Tipo Milán,3'',,
+CRA 10 # 52,San Miguel,1105532,1277987,Tipo Milán,3'',,
+CRA 15 #50,San Miguel,1105308,1278172,Tipo Milán,3'',,
+CL 108 # 22A-40,Provenza,1106401,1275181,Tipo Tráfico,4'',,
+CL 33A # 24-83..,"Antonia Santos
+centro",1105854,1279508,Tipo Tráfico,4'',,
+CL 40A # 25-65,Bólivar,1106165,1279080,Tipo Tráfico,4'',,
+CRA 38 # 41-36,"Cabecera del
+Llano",1107049,1279488,Tipo Tráfico,4'',,
+CL 42 # 40-15 PORTERIA,"Cabecera del
+Llano",1107252,1279448,Tipo Tráfico,4'',,
+CL 55A # 1-17 URB CENTAUROS,"Ciudadela Real de
+Minas",1104795,1277208,Tipo Tráfico,4'',,
+CL 51 # 18-67,La Concordia,1105862,1278309,Tipo Tráfico,4'',,
+CRA 40A # 41-56,"Cabecera del
+Llano",1107242,1279534,Tipo Tráfico,4'',,
+CRA 7 #35-72,Alfonso López,1104288,1278690,Tipo Tráfico,4'',,
+CRA 39 # 51-14,"Cabecera del
+Llano",1107263,1278718,Tipo Tráfico,4'',,
+CL 19 # 30-34,San Alonso,1106113,1280424,Tipo Tráfico,4'',,
+CRA 17 # 68-65,La Victoria,1106259,1276796,Tipo Tráfico,4'',,
+VIA PAMPLONA # 1-97,Quinta Brigada,1107167,1280315,Tipo Tráfico,4'',,
+CL 22 #20-37,San Francisco,1105267,1279976,Tipo Tráfico,6'',,
+CRA 36 # 48-76 HOTEL,"Cabecera del
+Llano",1107028,1278793,Tipo Tráfico,4'',,
+CL 107 # 22A-110,Provenza,1106462,1275242,Tipo Tráfico,4'',,
+CRA 10 DN # 24-12 T 19,"Villas de San
+Ignacio",1103466,1282715,Tipo Tráfico,4'',,
+CL 10 # 22-36,Mutualidad,1105234,1281074,Tipo Tráfico,4'',,
+CL 40 # 23-54,Bólivar,1105976,1279048,Tipo Tráfico,4'',,
+CRA 23 # 37-81,Bólivar,1105865,1279050,Tipo Milán,3'',,
+CL 10NB # 2 OCC - 03 -  ETAPA 3,"Villas de San
+Ignacio",1102851,1282538,Tipo Tráfico,4'',,
+CRA 49 # 53-158,Pan de Azucar,1107628,1278402,Tipo Milán,3'',,
+CL 32 # 25-50/60,"Antonia Santos
+centro",1105893,1279663,Tipo Tráfico,4'',,
+CL 21 # 28-25,San Alonso,1105966,1280209,Tipo Tráfico,4'',,
+CL 24 # 24-44,Alarcón,1105660,1279979,Tipo Tráfico,4'',,
+CL 106 # 21-05,Provenza,1106113,1275290,Tipo Milán,3'',,
+CRA 38#18-64,Centro,1105468,1278930,Tipo Tráfico,4'',,
+CRA 28 # 45-63,Sotomayor,1106534,1278938,Tipo Milán,3'',,
+CL 66A # 25W-11,La Gran Ladera,1104190,1275863,Tipo Tráfico,4'',,
+CRA 17 # 70-04,Nueva Granada,1106350,1276653,Tipo Milán,3'',,
+CRA 17 # 22N-06,Olas Bajas,1104255,1283134,Tipo Milán,3'',,
+CL 110A # 15-07,Punta Paraíso,1105277,1274485,Tipo Tráfico,4'',,
+CL 64 # 46-05,La Floresta,1107345,1277775,Tipo Tráfico,4'',,
+"COSTADO SUR VIADUCTO LA
+FLORA",El Tejar,1107249,1277045,Tipo Tráfico,4'',,
+CRA 32 # 17-40,San Alonso,1106224,1280599,Tipo Tráfico,4'',,
+TRANS 93 # 34-180 T 8,El Tejar,1107137,1277022,Tipo Tráfico,4'',,
+TRANS 93 # 34-99 OF 1004,El Tejar,1107128,1276959,Tipo Tráfico,4'',,
+TRANS 93 # 34-99,El Tejar,1107116,1276899,Tipo Tráfico,4'',,
+TRANS ORIENTAL # 90-182,El Tejar,1107229,1276994,Tipo Tráfico,4'',,
+TRANS 93 # 34-99,El Tejar,1107246,1276885,Tipo Tráfico,4'',,
+DG 31 # 52-06,Bolarqui,1106630,1278397,Tipo Tráfico,4'',,
+CRA 24 # 19N-07,Lizcano II,1105198,1282409,Tipo Milán,3'',,
+CL 37 #6-23,Alfonso López,1104320,1278680,Tipo Tráfico,4'',,
+CRA 34 # 42-54,"Cabecera del
+Llano",1106765,1279276,Tipo Tráfico,4'',,
+TRANS CENTRAL METROP # 2A-14,Bucaramanga,1104830,1276351,Tipo Milán,3'',,
+CL 121 # 19-12,El Cristal,1106021,1274430,Tipo Milán,3'',,
+CRA 21B # 115-116 BL 2 E.A AP.101,Provenza,1106226,1274622,Tipo Milán,3'',,
+CRA 24 # 89-08,Diamante II,1106583,1275958,Tipo Milán,3'',,
+AV 89 # 23-211,Diamante II,1106739,1276358,Tipo Milán,3'',,
+TRANS ORIENTAL # 90-182,El Tejar,1107239,1276934,Tipo Tráfico,4'',,
+CL 19 # 32-45,San Alonso,1106302,1280472,Tipo Tráfico,4'',,
+CL 105 # 21-05,Provenza,1106114,1275393,Tipo Piso,2'',,
+CRA 21 # 103-32,Provenza,1106114,1275453,Tipo Piso,2'',,
+CL 55 # 28-54,Bolarqui,1106517,1278201,Tipo Piso,2'',,
+CL 71D # 31A-05,"Quebrada La
+iglesia",1106973,1277300,Tipo Piso,2'',,
+"SUB-ESTACION PROVENZA C105
+K24",Provenza,1106718,1275393,Tipo Piso,2'',,
+CRA 19#41-51,Centro,1105568,1278799,Tipo Milán,3'',,
+AUT FLORIDA # 86-30,Villa Diamante,1106970,1275910,Tipo Tráfico,6'',,
+PEATONAL CRA 33A # 112-32,Villa Diamante,1106946,1275991,Tipo Tráfico,4'',,
+CL 104B # 15A-03,Delicias,1105563,1275234,Tipo Tráfico,6'',,
+CL 57 # 3W-05,Mutis,1104559,1277060,Tipo Milán,3'',,
+CRA 2W # 58-07,Mutis,1104680,1277104,Tipo Milán,3'',,
+CL 53 # 49-26 CASA 5,Pan de Azucar,1107690,1278515,Tipo Tráfico,4'',,
+CL 105 # 22-160,Provenza,1106424,1275365,Tipo Tráfico,4'',,
+CL 42 # 29-10,Mejoras Públicas,1106544,1279252,Tipo Tráfico,4'',,
+CL 50 #16-48,San Miguel,1105491,1278266,Tipo Tráfico,4'',,
+CL 41 # 26-45,Bólivar,1106253,1279075,Tipo Tráfico,4'',,
+CL 32 # 26-80 SERVITECA PARQUE,"Antonia Santos
+centro",1105972,1279707,Tipo Tráfico,4'',,
+CRA 27 # 36-70,Bólivar,1106173,1279272,Tipo Tráfico,4'',,
+CL 53 # 37-38,"Cabecera del
+Llano",1107225,1278360,Tipo Tráfico,4'',,
+CRA 27A # 51-10 LAVADERO,Nuevo Sotomayor,1106322,1278581,Tipo Tráfico,4'',,
+CRA 27 # 33-02/22,"Antonia Santos
+centro",1106026,1279640,Tipo Tráfico,4'',,
+CRA 22#33-01,"Antonia Santos
+centro",1105610,1279457,Tipo Tráfico,4'',,
+CRA 28 # 42-47,Sotomayor,1106457,1279144,Tipo Tráfico,4'',,
+CL 10 # 26-16,Universidad,1105572,1281142,Tipo Tráfico,4'',,
+CRA 29 # 32-37,Mejoras Públicas,1106208,1279793,Tipo Tráfico,4'',,
+CRA 39A # 42-56,"Cabecera del
+Llano",1107188,1279361,Tipo Tráfico,4'',,
+CL 35 # 29-20,Mejoras Públicas,1106358,1279570,Tipo Tráfico,4'',,
+CRA 25 # 11-31,Universidad,1105506,1281011,Tipo Piso,2'',,
+CRA 37 # 100-23 T 6,Fatima,1107782,1276460,Tipo Tráfico,4'',,
+CRA 32A # 14-11,San Alonso,1106283,1280790,Tipo Milán,3'',,
+CRA 39 # 48-152,"Cabecera del
+Llano",1107243,1278752,Tipo Tráfico,4'',,
+CRA 31 # 21-42,San Alonso,1106212,1280200,Tipo Piso,2'',,
+CL 48 # 25-43,Nuevo Sotomayor,1106189,1278863,Tipo Milán,3'',,
+CRA 21 # 54-62,La Concordia,1106132,1278069,Tipo Tráfico,4'',,
+PEAT CRA 59 # 20-24,Provenza,1106147,1275131,Tipo Tráfico,4'',,
+CL 35 # 29-05,Mejoras Públicas,1106345,1279564,Tipo Milán,3'',,
+CL 43 # 35-55,"Cabecera del
+Llano",1106928,1279302,Tipo Tráfico,4'',,
+CL 18 # 32B-45,San Alonso,1106440,1280585,Tipo Tráfico,4'',,
+CRA 29 # 16-67,San Alonso,1105960,1280598,Tipo Milán,3'',,
+CRA 28 # 30-55,La Aurora,1106052,1279868,Tipo Milán,3'',,
+CL 32 # 27,La Aurora,1106010,1279746,Tipo Tráfico,4'',,
+CL 18 # 32-69,San Alonso,1106308,1280571,Tipo Tráfico,4'',,
+CRA 27 # 33-95/97,Mejoras Públicas,1106114,1279549,Tipo Tráfico,4'',,
+CRA 33 # 37-68/ 50,Mejoras Públicas,1106638,1279503,Tipo Tráfico,4'',,
+CRA 27 # 37-56 LAVADERO,Mejoras Públicas,1106223,1279209,Tipo Tráfico,4'',,
+CL 42 # 35-45,El Prado,1106893,1279372,Tipo Tráfico,4'',,
+CL 36 # 28-07,Mejoras Públicas,1106278,1279457,Tipo Tráfico,4'',,
+CL 33 # 30-20,Mejoras Públicas,1106342,1279806,Tipo Tráfico,4'',,
+CL 15 # 25-50,San Francisco,1105609,1280711,Tipo Tráfico,4'',,
+CRA 25 # 15-02,San Francisco,1105553,1280693,Tipo Tráfico,4'',,
+CL 20 # 25-45,San Francisco,1105704,1280253,Tipo Tráfico,4'',,
+CRA 55 # 71-02 PARROQUIA,Lagos del Cacique,1108252,1277619,Tipo Milán,3'',,
+CRA 53 # 72-13,Lagos del Cacique,1108034,1277403,Tipo Tráfico,4'',,
+CRA 11W # 60BIS-90,Brisas del Mutis,1104303,1276469,Tipo Milán,3'',,
+CL 9 # 23-04 LOC 2,Comuneros,1105276,1281186,Tipo Milán,3'',,
+"CRA 6 # 60-03 CUNJ. RESIDENCIAL
+SAMANES 5","Ciudadela Real de
+Minas",1105190,1277326,Tipo Milán,3'',,
+CRA 9 # 60-02,"Ciudadela Real de
+Minas",1105360,1277441,Tipo Tráfico,6'',,
+CRA 9A#45A-03,"Chorreras de Don
+Juan",1104757,1278324,Tipo Milán,3'',,
+CRA 10E # 68-26,Pablo VI,1105874,1276572,Tipo Piso,2'',,
+CRA 3 # 58-35 T 4D INT 1,"Ciudadela Real de
+Minas",1104962,1277235,Tipo Milán,3'',,
+CRA 14#42 ESQUINA,Centro,1105042,1278696,Tipo Tráfico,4'',,
+CL 69 # 8A-31 JUAN XXIII,Juan XXIII,1105693,1276361,Tipo Milán,3'',,
+CRA 17A # 63-37 LOC. 11,La Ceiba,1106070,1277372,Tipo Milán,3'',,
+AV. QUEBRADA SECA CRA 18-96,Alarcón,1105245,1279624,Tipo Milán,3'',,
+CL 69 # 20-25,La Victoria,1106435,1276897,Tipo Piso,2'',,
+CL 68 # 15-04,La Victoria,1106131,1276786,Tipo Piso,2'',,
+CL 67 # 16-30,La Victoria,1106130,1276942,Tipo Piso,2'',,
+CL 68 # 11-06,La Victoria,1105970,1276663,Tipo Milán,3'',,
+CRA 17C # 64-27,La Ceiba,1106225,1277377,Tipo Piso,2'',,
+CL 61 # 17-36,La Ceiba,1106018,1277489,Tipo Milán,3'',,
+CRA 27 # 67-15,La Salle,1106525,1277242,Tipo Milán,3'',,
+CL 23N # 17-90,Olas Bajas,1104323,1283217,Tipo Milán,3'',,
+"CL 32 CRA 27 PARQUE DE LOS
+NIÑOS","Antonia Santos
+centro",1105936,1279844,Tipo Tráfico,4'',,
+CRA 30 # 53-16,Bolarqui,1106511,1278352,Tipo Tráfico,4'',,
+CL 22 # 25-25,San Francisco,1105716,1280062,Tipo Tráfico,4'',,
+CL 59#9A-9 ENVÍA,"Zona Industrial Autopista a Bucaramanga lado
+norte",1101623,1275291,Tipo Tráfico,4'',,
+CL 70 # 8B-27,Juan XXIII,1105726,1276323,Tipo Milán,3'',,
+CRA 5 OCC # 11NC - 37,"Villas de San
+Ignacio",1102850,1282745,Tipo Milán,3'',,
+CRA 2A OCC # 8N - 03 ET 4,"Villas de San
+Ignacio",1102589,1282456,Tipo Tráfico,4'',,
+CRA 4 OCC # 9N - 29 -  ETAPA 6,"Villas de San
+Ignacio",1102657,1282572,Tipo Tráfico,4'',,
+CL 10ND # 5 OCC - 11 -  ETAPA 6,"Villas de San
+Ignacio",1102758,1282701,Tipo Tráfico,4'',,
+CL 11N # 1A OCC - 19,"Villas de San
+Ignacio",1102868,1282559,Tipo Tráfico,4'',,
+CRA 19#36,Centro,1105427,1279108,Tipo Milán,3'',,
+CRA 35#PASAJE MARTÍNEZ MUTIS,Centro,1105160,1279096,Tipo Piso,2'',,
+CRA 15 AV QUEBRADA SECA,Centro,1104882,1279474,Tipo Tráfico,4'',,
+AV. QUEBRADA SECA  CRA 16,Centro,1104946,1279485,Tipo Tráfico,4'',,
+AV. QUEBRADA SECA CRA 14,Centro,1104809,1279420,Tipo Tráfico,4'',,
+CRA 17#8-26,Comuneros,1104692,1281138,Tipo Tráfico,4'',,
+CRA 19 # 8-07,Comuneros,1104883,1281197,Tipo Tráfico,4'',,
+CL 24 CRA 12,Granada,1104522,1279627,Tipo Piso,2'',,
+CRA 14#28,Granada,1104710,1279665,Tipo Milán,4'',,
+CRA 14#28,Granada,1104745,1279545,Tipo Tráfico,4'',,
+CRA 27 # 34-72,"Antonia Santos
+centro",1106113,1279453,Tipo Tráfico,4'',,
+CRA 6#28-34,Girardot,1104168,1279294,Tipo Tráfico,6'',,
+CL 28#12,Granada,1104573,1279466,Tipo Milán,3'',,
+CRA 25 # 101-35,Provenza,1106719,1275567,Tipo Tráfico,4'',,
+CL ESTUDIANTES # 9-67/ 75,"Ciudadela Real de
+Minas",1105341,1277615,Tipo Tráfico,4'',,
+CRA 22C # 5N-03,El Plan,1105078,1281987,Tipo Milán,3'',,
+CRA 3 # 55-100 MZ G CASA 14,"Ciudadela Real de
+Minas",1104867,1277348,Tipo Tráfico,6'',,
+CL 95 # 32-38,Porto Fino,1107117,1276556,Tipo Milán,3'',,
+CRA 9A # 31DN-23 MZ A,"Villas de San
+Ignacio",1103350,1283447,Tipo Milán,3'',,
+CRA 28 # 41-27,Sotomayor,1106456,1279182,Tipo Tráfico,4'',,
+CL 45 # 27-03,Sotomayor,1106293,1278978,Tipo Tráfico,4'',,
+CRA 28 # 51-74,Sotomayor,1106357,1278502,Tipo Tráfico,4'',,
+CRA 27 # 48-103,Sotomayor,1106328,1278713,Tipo Tráfico,4'',,
+CRA 27A # 40-25,Mejoras Públicas,1106305,1279248,Tipo Milán,3'',,
+CL 52 # 30-16,Sotomayor,1106601,1278413,Tipo Tráfico,4'',,
+CL 54 # 33-12,"Cabecera del
+Llano",1106888,1278226,Tipo Milán,3'',,
+CRA 38 # 51-117,"Cabecera del
+Llano",1107203,1278530,Tipo Tráfico,6'',,
+CRA 35A # 49-07,"Cabecera del
+Llano",1106991,1278640,Tipo Tráfico,4'',,
+CL 35#9-81,Garcia Rovira,1104590,1278877,Tipo Tráfico,4'',,
+CL 52 # 33-14,"Cabecera del
+Llano",1106849,1278442,Tipo Milán,3'',,
+CRA 33 # 49-35 T N,"Cabecera del
+Llano",1106818,1278613,Tipo Milán,3'',,
+CL 48 # 33-08,"Cabecera del
+Llano",1106780,1278822,Tipo Milán,3'',,
+CRA 33 # 62-46,Conucos,1106932,1277807,Tipo Tráfico,4'',,
+CL 50 # 20-46/48,La Concordia,1105935,1278444,Tipo Milán,3'',,
+CRA 24 # 34-45,"Antonia Santos
+centro",1105822,1279376,Tipo Tráfico,4'',,
+CRA 33 # 70-58,Los Guayacanes,1107199,1277397,Tipo Tráfico,4'',,
+CRA 27 # 58-85,Mercedes,1106448,1277827,Tipo Tráfico,4'',,
+CL 54 # 27-37,Bolarqui,1106388,1278272,Tipo Tráfico,4'',,
+CRA 27 # 56-41,Ricaurte,1106411,1277917,Tipo Tráfico,4'',,
+CL 55 # 23-61,Bolarqui,1106382,1278131,Tipo Tráfico,4'',,
+CL 53 # 24-05,Bolarqui,1106354,1278347,Tipo Tráfico,4'',,
+CRA 24 # 52-74,Bolarqui,1106310,1278369,Tipo Tráfico,4'',,
+CL 53 # 23-11,Bolarqui,1106242,1278281,Tipo Tráfico,4'',,
+CRA 21 # 46-10,La Concordia,1105817,1278729,Tipo Tráfico,4'',,
+CL 103 # 13D-22,"Jardines de
+Coaviconsa",1105387,1275565,Tipo Tráfico,4'',,
+CL 98 # 16-77,Fontana,1105576,1275765,Tipo Tráfico,4'',,
+CRA 32W # 71-36,"Quebrada La
+iglesia I",1103942,1275488,Tipo Tráfico,4'',,
+CRA 19 # 104-56,Fontana,1105974,1275382,Tipo Tráfico,4'',,
+CRA 15E # 105-75,Provenza,1105670,1275000,Tipo Tráfico,4'',,
+CL 103 # 13B-09,"Jardines de
+Coaviconsa",1105298,1275553,Tipo Tráfico,4'',,
+CRA 13C # 99-95 CASA 11,"Jardines de
+Coaviconsa",1105342,1275563,Tipo Tráfico,4'',,
+CL 103 # 14-14,"Jardines de
+Coaviconsa",1105454,1275568,Tipo Tráfico,4'',,
+SECTOR 5 MZ-A CASA 3,Cristal Bajo,1105864,1274002,Tipo Milán,3'',,
+CRA 4 # 15DN-20,Maria Paz,1103566,1282468,Tipo Milán,3'',,
+CRA 45 # 64A-62/ 64,La Floresta,1107255,1277657,Tipo Tráfico,4'',,
+CRA 45 # 54-13,Terrazas,1107324,1278291,Tipo Tráfico,4'',,
+CL 91 # 22-07,Diamante II,1106412,1275915,Tipo Milán,3'',,
+CRA 33W # 71-79,"Quebrada La
+iglesia I",1103834,1275380,Tipo Tráfico,4'',,
+CL 56 # 46-36,Terrazas,1107412,1278059,Tipo Milán,3'',,
+CRA 34W # 71-36,"Quebrada La
+iglesia I",1104111,1275529,Tipo Tráfico,4'',,
+CRA 35W # 64-05,"Quebrada La
+iglesia I",1103677,1275278,Tipo Tráfico,4'',,
+CRA 18BIS # 16AN-35,Paisajes Norte,1104465,1282767,Tipo Milán,3'',,
+CL 20 # 32A-45,San Alonso,1106415,1280401,Tipo Tráfico,6'',,
+CL 37DN # 8BIS-44,Café Madrid,1103536,1284098,Tipo Milán,3'',,
+CL 90 # 25-119,Diamante II,1106825,1275817,Tipo Tráfico,4'',,
+"CRA 10-BETANIA SECTOR A-
+PEATONAL 2","Villas de San
+Ignacio",1103498,1283338,Tipo Tráfico,4'',,
+CL 17N # 12-07,Kennedy,1104130,1282816,Tipo Milán,3'',,
+CRA 32 # 19-01,San Alonso,1106254,1280453,Tipo Tráfico,4'',,
+DG 13 # 60-82 T 1,"Ciudadela Real de
+Minas",1105668,1277530,Tipo Tráfico,4'',,
+CRA 13AN # 17A-08,Kennedy,1104181,1282829,Tipo Tráfico,4'',,
+CRA 38 # 44-88,"Cabecera del
+Llano",1107085,1279163,Tipo Tráfico,4'',,
+DG 13 # 60-125 T 2,"Ciudadela Real de
+Minas",1105712,1277511,Tipo Tráfico,4'',,
+CL 91 # 25-10,Diamante II,1106711,1275789,Tipo Tráfico,4'',,
+CL 11 # 23-35,Mutualidad,1105354,1281030,Tipo Tráfico,4'',,
+CRA 24 # 11-44,Mutualidad,1105401,1280986,Tipo Tráfico,4'',,
+CL 71B # 55-40,Altos del Lago,1108315,1277515,Tipo Milán,3'',,
+CRA 33 # 91-52 T 1,San Martin,1107005,1276743,Tipo Tráfico,4'',,
+CL 12 # 17A-11,Modelo,1104817,1280840,Tipo Tráfico,4'',,
+CRA 32C # 19-32,San Alonso,1106459,1280441,Tipo Tráfico,4'',,
+CL 12 # 17,Modelo,1104765,1280842,Tipo Tráfico,4'',,
+"VIA PALENQUE C. MADRID KM2
+SERVITECA GARCILLANTAS",Río de Oro I,1100869,1277500,Tipo Tráfico,4'',,
+"VIA PALENQUE-CAFE
+PARQUEADERO KM 2",Río de Oro I,1100659,1277360,Tipo Tráfico,4'',,
+CRA 24 # 101-25,Provenza,1106688,1275577,Tipo Milán,3'',,
+CRA 29 # 30-25,La Aurora,1106115,1279952,Tipo Tráfico,4'',,
+CIRCUN 35 # 92-156 T 3,El Tejar,1107474,1276872,Tipo Tráfico,4'',,
+VIA BGA-GIRON KM 6,,1102697,1275235,Tipo Tráfico,4'',,
+CL 9 # 32C-14,Universidad,1106268,1281442,Tipo Milán,3'',,
+CL 43#14-51,Centro,1105112,1278633,Tipo Tráfico,4'',,
+CL 37 #4A,Alfonso López,1104209,1278621,Tipo Tráfico,4'',,
+CL 12 # 27-68,Universidad,1105822,1281008,Tipo Tráfico,4'',,
+CL 106 # 22-43,Provenza,1106336,1275313,Tipo Tráfico,4'',,
+CL 37 # 23-77,Bólivar,1105900,1279170,Tipo Tráfico,4'',,
+CL 12NA # 1A OCC - 06,"Villas de San
+Ignacio",1102979,1282719,Tipo Tráfico,4'',,
+CRA 10#31,Garcia Rovira,1104457,1279282,Tipo Milán,3'',,
+CRA 27 # 17-54,San Francisco,1105776,1280542,Tipo Tráfico,4'',,
+CIRCUN 35 # 92-135,El Tejar,1107511,1276989,Tipo Milán,3'',,
+CL 34N # 8B-05,Café Madrid,1103461,1283778,Tipo Tráfico,4'',,
+CL 35 # 27-86,Mejoras Públicas,1106216,1279488,Tipo Milán,3'',,
+CRA 27 # 12-07,Universidad,1105750,1280996,Tipo Tráfico,4'',,
+CL 11 # 24-70,Mutualidad,1105473,1281042,Tipo Tráfico,4'',,
+CL 11 # 23-04,Mutualidad,1105309,1281009,Tipo Tráfico,4'',,
+CRA 27 # 21-70,San Francisco,1105842,1280096,Tipo Tráfico,4'',,
+CL 16 # 27-10,San Alonso,1105789,1280623,Tipo Tráfico,4'',,
+CRA 27 #17-75,San Alonso,1105806,1280477,Tipo Tráfico,4'',,
+CRA 27 # 15-09,San Francisco,1105777,1280665,Tipo Tráfico,4'',,
+CL 20 # 26-32,San Francisco,1105790,1280262,Tipo Tráfico,4'',,
+CRA 24 # 51-48,Nuevo Sotomayor,1106251,1278451,Tipo Tráfico,4'',,
+"VIA GIRON KM 4 ENRADAT
+LADRILLERA .BGA","Quebrada La
+iglesia I",1104039,1275513,Tipo Tráfico,4'',,
+CRA 1W # 53-20 BALCONCITOS,Balconcitos,1104585,1277463,Tipo Milán,3'',,
+CRA 56 # 74-191,Altos del Lago,1108332,1276982,Tipo Tráfico,4'',,
+CRA 38 # 51-136,"Cabecera del
+Llano",1107193,1278541,Tipo Tráfico,4'',,
+CRA 38 # 52-87,"Cabecera del
+Llano",1107228,1278410,Tipo Tráfico,4'',,
+CL 55A # 27-05,Bolarqui,1106417,1278050,Tipo Tráfico,4'',,
+CL 54 # 23-22,Bolarqui,1106293,1278197,Tipo Tráfico,4'',,
+CL 34 # 23-41,"Antonia Santos
+centro",1105763,1279411,Tipo Tráfico,6'',,
+CRA 25 # 24-37,Alarcón,1105727,1279945,Tipo Milán,3'',,
+CL 73 # 41W-97,"Quebrada La
+iglesia I",1103496,1275187,Tipo Tráfico,4'',,
+CL 105 # 26A-93,Provenza,1107003,1275741,Tipo Tráfico,4'',,
+CL 38 # 34-18,El Prado,1106751,1279508,Tipo Tráfico,4'',,
+CRA 24 # 16-35,San Francisco,1105498,1280549,Tipo Milán,3'',,
+CRA 26 # 24-23,Alarcón,1105794,1280030,Tipo Tráfico,4'',,
+"CRA 10-BETANIA SECTOR B-CASA
+60","Villas de San
+Ignacio",1103479,1283120,Tipo Tráfico,4'',,
+CRA 38 # 42-12,"Cabecera del
+Llano",1107058,1279381,Tipo Tráfico,4'',,
+CL 65 # 44-12,La Floresta,1107210,1277639,Tipo Tráfico,4'',,
+CRA 27 # 18-04/10,San Francisco,1105782,1280463,Tipo Tráfico,4'',,
+CRA 27 # 32-04,"Antonia Santos
+centro",1105998,1279715,Tipo Tráfico,4'',,
+CL 33 # 26-39,"Antonia Santos
+centro",1105969,1279618,Tipo Tráfico,4'',,
+CL 34A # 44-05,"Alvarez las
+Américas",1107175,1279921,Tipo Milán,3'',,
+CRA 27 # 45-100,Nuevo Sotomayor,1106285,1278857,Tipo Tráfico,4'',,
+AV 38 # 51-89 T 1,"Cabecera del
+Llano",1107212,1278626,Tipo Tráfico,4'',,
+CL 50 # 23-112,Nuevo Sotomayor,1106225,1278613,Tipo Milán,3'',,
+CRA 50 # 54-115,Pan de Azucar,1107701,1278234,Tipo Milán,3'',,
+CL 46 # 35A-44,"Cabecera del
+Llano",1106976,1279026,Tipo Milán,3'',,
+CRA 55 # 72-02 *,Lagos del Cacique,1108216,1277346,Tipo Tráfico,4'',,
+CRA 29 # 42-12,Sotomayor,1106541,1279216,Tipo Tráfico,4'',,
+CL 38 # 32-10,Mejoras Públicas,1106567,1279472,Tipo Tráfico,4'',,
+CRA 21 # 19-45,San Francisco,1105276,1280203,Tipo Tráfico,4'',,
+CRA 25 # 35-21,"Antonia Santos
+centro",1105949,1279361,Tipo Tráfico,4'',,
+"AV QUEBRADA SECA # 33A-100
+NIVEL 0",Galán,1106591,1280410,Tipo Tráfico,4'',,
+CIRCUN 35 # 72-98,El Tejar,1107441,1277046,Tipo Tráfico,4'',,
+CRA 23 # 37-47,Bólivar,1105843,1279102,Tipo Tráfico,4'',,
+CRA 17C # 55-22,La Concordia,1105991,1277954,Tipo Tráfico,4'',,
+CRA 28 # 48-70,Sotomayor,1106496,1278731,Tipo Tráfico,4'',,
+CRA 39 # 44-70,"Cabecera del
+Llano",1107180,1279224,Tipo Tráfico,4'',,
+CRA 37 # 52-43 OF 401,"Cabecera del
+Llano",1107158,1278465,Tipo Tráfico,4'',,
+CIRCUN 35 # 92-136,El Tejar,1107488,1276996,Tipo Tráfico,4'',,
+CL 50 # 22-87,La Concordia,1106106,1278549,Tipo Tráfico,4'',,
+CRA 35 # 9-55,Los Pinos,1106807,1281050,Tipo Tráfico,4'',,
+CL 19 # 23-07,San Francisco,1105448,1280305,Tipo Tráfico,4'',,
+CL 21 # 25-27 T 1,San Francisco,1105708,1280157,Tipo Tráfico,4'',,
+CL 20 # 49-48,San Alonso,1106052,1280315,Tipo Tráfico,4'',,
+CRA 30 # 35-10,Mejoras Públicas,1106402,1279595,Tipo Tráfico,4'',,
+"VIA BGA-GIRON CL 58 # 4- 71
+TRANSITO DE GIRON","Quebrada La
+iglesia I",1103767,1275507,Tipo Tráfico,4'',,
+CRA 26 # 45-39,Nuevo Sotomayor,1106221,1278900,Tipo Tráfico,4'',,
+CRA 34 # 36-31,El Prado,1106713,1279625,Tipo Tráfico,4'',,
+CRA 38 # 48-122,"Cabecera del
+Llano",1107084,1278797,Tipo Tráfico,4'',,
+CRA 29 # 55B-07,Bolarqui,1106631,1278061,Tipo Tráfico,4'',,
+CL 100 # 23-27 OF 1,Provenza,1106521,1275668,Tipo Tráfico,4'',,
+CRA 25 # 19-19,San Francisco,1105644,1280296,Tipo Tráfico,4'',,
+CRA 21A # 109-60,"Granjas de
+Provenza",1106143,1275080,Tipo Milán,3'',,
+CL 22 # 23-72,Alarcón,1105587,1280024,Tipo Tráfico,4'',,
+CL 8 # 29-157 INT 2 PUERTO RICO,San Alonso,1106199,1281281,Tipo Tráfico,4'',,
+CL 18 # 26-23,San Francisco,1105736,1280454,Tipo Tráfico,4'',,
+CRA 34 # 34-17,El Prado,1106684,1279795,Tipo Tráfico,4'',,
+CRA 34 # 34-41,El Prado,1106687,1279771,Tipo Tráfico,4'',,
+CL 10 # 34-15 T 1,Los Pinos,1106765,1281052,Tipo Tráfico,4'',,
+CRA 17F # 58A-53,Ricaurte,1106197,1277767,Tipo Tráfico,4'',,
+CL 51 # 27A-33 OF,Sotomayor,1106386,1278596,Tipo Tráfico,4'',,
+CL 8 # 22-04,Comuneros,1105175,1281264,Tipo Tráfico,4'',,
+CL 65 # 30W-03,Monterredondo,1103917,1275947,Tipo Milán,3'',,
+CL 17 # 24-56,San Francisco,1105555,1280507,Tipo Tráfico,4'',,
+CL 37 # 24-82,Bólivar,1106017,1279201,Tipo Tráfico,4'',,
+CL 37 # 24-75,Bólivar,1105988,1279200,Tipo Tráfico,4'',,
+CRA 26 # 20-05,San Francisco,1105750,1280249,Tipo Tráfico,4'',,
+CL 34 # 27-47/55,Mejoras Públicas,1106158,1279563,Tipo Tráfico,4'',,
+CRA 18 # 87-35,San Luis,1106037,1276203,Tipo Tráfico,4'',,
+CL 35 # 23-01,"Antonia Santos
+centro",1105748,1279337,Tipo Tráfico,4'',,
+CRA 36 # 38-24,El Prado,1106895,1279507,Tipo Tráfico,4'',,
+CL 67 # 20-29,La Victoria,1106289,1277072,Tipo Tráfico,4'',,
+CL 69 # 16-29,La Victoria,1106284,1276738,Tipo Piso,2'',,
+CRA 39 # 48-05,"Cabecera del
+Llano",1107196,1278856,Tipo Tráfico,4'',,
+CL 69 # 12-29,La Victoria,1106097,1276647,Tipo Piso,2'',,
+CRA 22#21-21,San Francisco,1105347,1279988,Tipo Tráfico,4'',,
+CRA 10B # 68A-30,África,1105843,1276470,Tipo Milán,3'',,
+CRA 11 # 68-10,Pablo VI,1105957,1276651,Tipo Milán,3'',,
+CRA 25 # 65-19 T A,La Victoria,1106417,1277385,Tipo Milán,3'',,
+CRA 2W # 55-05,Mutis,1104557,1277246,Tipo Milán,3'',,
+CRA 24W # 59-02,Manzanares,1103673,1276501,Tipo Milán,3'',,
+CL 60 # 37W-75,Estoraques,1103365,1276209,Tipo Milán,3'',,
+CRA 19 # 9-85,Comuneros,1104919,1281033,Tipo Tráfico,4'',,
+CRA 20 # 12,Mutualidad,1105052,1280831,Tipo Milán,3'',,
+CL 62 # 3W-61,Mutis,1104598,1276817,Tipo Milán,3'',,
+CRA 35W # 64-25,Monterredondo,1103769,1275985,Tipo Milán,3'',,
+CL 64 # 2AW-74,Mutis,1104824,1276748,Tipo Milán,3'',,
+CRA 3W # 64-08,Los Heroes,1104803,1276710,Tipo Milán,3'',,
+CL 65 # 6W-257,Monterredondo,1104485,1276419,Tipo Tráfico,4'',,
+CRA 8W # 62-48,Prados Mutis,1104516,1276693,Tipo Milán,3'',,
+CRA 43W # 58-03,Estoraques,1103146,1276090,Tipo Milán,3'',,
+CRA 14W # 66-15,La Gran Ladera,1104358,1276130,Tipo Milán,3'',,
+CL 55A # 2-04,"Ciudadela Real de
+Minas",1104851,1277247,Tipo Tráfico,4'',,
+CL 58 # 7W-114,Mutis,1104346,1276860,Tipo Milán,3'',,
+CRA 23W # 66-18,La Gran Ladera,1104233,1275987,Tipo Milán,3'',,
+CL 21 # 23-44,San Francisco,1105537,1280115,Tipo Tráfico,4'',,
+CL 19 # 27-34,San Alonso,1105853,1280382,Tipo Tráfico,4'',,
+CRA 33 # 54-46,Campestre,1106876,1278136,Tipo Milán,3'',,
+"CRA 33 # 51A-08 (BANCO CAJA
+SOCIAL)",Campestre,1106800,1278502,Tipo Piso,2'',,
+CL 11 # 23-64,Mutualidad,1105377,1281034,Tipo Tráfico,4'',,
+CL 45 # 29-60,Sotomayor,1106712,1279065,Tipo Milán,3'',,
+CRA 25 # 21-78  CASA 1,Alarcón,1105680,1280041,Tipo Tráfico,4'',,
+CL 20NB # 1-12 ET 7,"Villas de San
+Ignacio",1103187,1282883,Tipo Tráfico,4'',,
+CL 35 # 22-32,"Antonia Santos
+centro",1105700,1279291,Tipo Tráfico,4'',,
+CRA 29 # 31-14,La Aurora,1106148,1279876,Tipo Tráfico,4'',,
+CL 52A # 31-79,Campestre,1106737,1278370,Tipo Tráfico,4'',,
+CL 11 # 23-11,Mutualidad,1105304,1281025,Tipo Tráfico,4'',,
+CL 109 # 22A-74,Provenza,1106424,1275121,Tipo Tráfico,4'',,
+AV GONZALEZ VALENCIA # 50-47,Nuevo Sotomayor,1106262,1278597,Tipo Tráfico,6'',,
+CL 34 # 26-59,"Antonia Santos
+centro",1106052,1279523,Tipo Tráfico,4'',,
+CL 18 # 23-60,San Francisco,1105498,1280395,Tipo Tráfico,4'',,
+CL 34 # 28-51,Mejoras Públicas,1106250,1279628,Tipo Milán,3'',,
+CRA 21 # 11-71,Mutualidad,1105134,1280912,Tipo Tráfico,4'',,
+CRA 8#58,"Zona Industrial Autopista a Bucaramanga lado
+sur",1102047,1275213,Tipo Milán,3'',,
+CL 20 # 31-70,San Alonso,1106229,1280352,Tipo Tráfico,4'',,
+CL 63 # 18-15,La Ceiba,1106454,1277552,Tipo Tráfico,4'',,
+CRA 24 # 30-11,"Antonia Santos
+centro",1105654,1279790,Tipo Tráfico,4'',,
+CL 11 # 28-53,Universidad,1105896,1281104,Tipo Tráfico,4'',,
+CL 20 # 24-76,San Francisco,1105640,1280232,Tipo Tráfico,4'',,
+CL 42#19-09,Centro,1105584,1278790,Tipo Tráfico,4'',,
+CRA 41 # 42-65,"Cabecera del
+Llano",1107332,1279387,Tipo Tráfico,4'',,
+AV 42 # 48-12,"Cabecera del
+Llano",1107374,1278886,Tipo Tráfico,4'',,
+CRA 22B # 113-10,Provenza,1106428,1274891,Tipo Tráfico,4'',,
+CL 18 # 31-53,San Alonso,1106197,1280549,Tipo Tráfico,4'',,
+CL 21 # 17,San Francisco,1104951,1280009,Tipo Milán,4'',,
+CL 35 # 25-74,"Antonia Santos
+centro",1106012,1279404,Tipo Tráfico,4'',,
+CRA 15#29,Granada,1104820,1279527,Tipo Tráfico,4'',,
+CRA 15 QUEBRADA SECA,Granada,1104868,1279549,Tipo Tráfico,4'',,
+CRA 32A # 19-30,San Alonso,1106343,1280431,Tipo Tráfico,4'',,
+CRA 15#3N - 37,Norte Bajo,1104020,1281890,Tipo Milán,3'',,
+CRA 24 #33,Centro,1105497,1279425,Tipo Milán,3'',,
+CRA 20#37 ESQUINA,Centro,1105546,1279033,Tipo Milán,3'',,
+CRA 19#28-60,Granada,1105220,1279660,Tipo Tráfico,4'',,
+CRA 20 # BULEVAR BOLIVAR,San Francisco,1105119,1280496,Tipo Tráfico,4'',,
+CRA 9 # 8A-74,Alfonso López,1104570,1278686,Tipo Tráfico,4'',,
+CL 45#7,"Chorreras de Don
+Juan",1104537,1278242,Tipo Milán,3'',,
+CL  41 #12 ESQUINA,Garcia Rovira,1104828,1278754,Tipo Milán,4'',,
+CL 42#17-28,Centro,1105446,1278757,Tipo Tráfico,4'',,
+CL 51N # 26-20,Colorados,1104378,1285638,Tipo Milán,3'',,
+"CRA 10-BETANIA SECTOR F-
+PEATONAL 2 CASA 1","Villas de San
+Ignacio",1103293,1282647,Tipo Tráfico,4'',,
+CL 34#18-01,Centro,1105289,1279242,Tipo Tráfico,4'',,
+AV GUAYACANES CRA 1 BL 18,"Ciudadela Real de
+Minas",1105135,1276590,Tipo Tráfico,4'',,
+CL 41 # 27-87,Mejoras Públicas,1106336,1279161,Tipo Tráfico,4'',,
+CRA 27A # 40-60,Mejoras Públicas,1106321,1279189,Tipo Tráfico,4'',,
+CL 41#19-61,Centro,1105597,1278869,Tipo Tráfico,4'',,
+CRA 15 # 104D-49,Delicias,1105501,1275176,Tipo Tráfico,4'',,
+CRA 23 # 30-55,"Antonia Santos
+centro",1105585,1279719,Tipo Tráfico,6'',,
+CRA 23 # 30-62,"Antonia Santos
+centro",1105589,1279692,Tipo Tráfico,6'',,
+CRA 38 # 46-30,"Cabecera del
+Llano",1107072,1279010,Tipo Tráfico,4'',,
+CRA 38 # 48-76,"Cabecera del
+Llano",1107072,1278819,Tipo Tráfico,6'',,
+CRA 18A # 113-21,"Viveros de
+Provenza",1105965,1274863,Tipo Tráfico,4'',,
+CL 105 # 17-04,Provenza,1105860,1275217,Tipo Tráfico,4'',,
+CRA 36 # 36-28,El Prado,1106864,1279657,Tipo Tráfico,4'',,
+CL 51 # 23-119,Nuevo Sotomayor,1106248,1278527,Tipo Tráfico,4'',,
+"KM 6.5 VÍA PALEQUE CAFE
+MADRID, HARINAGRO",Río de Oro I,1102229,1281151,Tipo Tráfico,4'',,
+CRA 38A # 46-04,"Cabecera del
+Llano",1107114,1279035,Tipo Tráfico,4'',,
+CL 42#12-42,Garcia Rovira,1104907,1278670,Tipo Tráfico,4'',,
+CL 47N # 22-41,,1104659,1285301,Tipo Tráfico,4'',,
+AV EL TEJAR # 104-25 CASA 11H,Fatima,1107919,1276563,Tipo Milán,3'',,
+CRA 18#31,Centro,1105201,1279458,Tipo Tráfico,4'',,
+CRA 53 # 72-82 CASA 8,Lagos del Cacique,1108081,1277285,Tipo Tráfico,4'',,
+VIA BGA-GIRON KM 6 BODEGA 1,"Quebrada La
+iglesia I",1102791,1275248,Tipo Tráfico,4'',,
+CRA 20 # 111-32,"Granjas de
+Provenza",1106057,1275025,Tipo Tráfico,6'',,
+TRANS 112A # 19-48,"Granjas de
+Provenza",1106016,1274930,Tipo Tráfico,6'',,
+CRA 25 # 35-16 T 2,"Antonia Santos
+centro",1105935,1279368,Tipo Tráfico,4'',,
+CRA 24 # 6-60,Comuneros,1105316,1281420,Tipo Tráfico,4'',,
+CL 109 # 20-23,"Granjas de
+Provenza",1106069,1275111,Tipo Tráfico,4'',,
+CL 62 # 2AW-40,Mutis,1104771,1276841,Tipo Milán,3'',,
+CL 39 # 24-80,Bólivar,1106044,1279147,Tipo Tráfico,4'',,
+CL 15#14-48,Gaitán,1104577,1280540,Tipo Tráfico,4'',,
+CRA 14 # 55-29,Gomez Niño,1105571,1277814,Tipo Tráfico,4'',,
+CL 73 # 42W-19,"Quebrada La
+iglesia I",1102458,1274900,Tipo Tráfico,4'',,
+CRA 27A # 48-62 T A,Sotomayor,1106399,1278751,Tipo Tráfico,4'',,
+CL 73 # 41W-12,"Quebrada La
+iglesia I",1102783,1274872,Tipo Tráfico,4'',,
+CL 73 # 41W-261,"Quebrada La
+iglesia I",1103025,1274981,Tipo Tráfico,4'',,
+CRA 27A # 48-16,Sotomayor,1106412,1278799,Tipo Tráfico,4'',,
+CL 60 # 8W-160 MZ B CASA 028,Brisas del Mutis,1104264,1276639,Tipo Tráfico,4'',,
+CL 60 # 8W-160 MZ C CASA 051,Brisas del Mutis,1104237,1276598,Tipo Milán,3'',,
+CL 17 # 32A-20,San Alonso,1106331,1280658,Tipo Tráfico,4'',,
+CRA 23 # 31-106,"Antonia Santos
+centro",1105652,1279544,Tipo Tráfico,4'',,
+CL 58 DIAGONAL.# 15-36 T 3,Ricaurte,1106362,1277807,Tipo Tráfico,4'',,
+CL 58 DIAGONAL. # 15-36,Ricaurte,1106277,1277864,Tipo Tráfico,4'',,
+CRA 26 # 45-67,Nuevo Sotomayor,1106225,1278862,Tipo Tráfico,4'',,
+CRA 24 # 19-26,San Francisco,1105539,1280280,Tipo Tráfico,4'',,
+CL 112 # 22-122,Provenza,1106424,1274947,Tipo Tráfico,4'',,
+CL 15 # 24-41,San Francisco,1105517,1280704,Tipo Tráfico,4'',,
+CRA 35A # 48-52,"Cabecera del
+Llano",1106970,1278804,Tipo Tráfico,4'',,
+CL 28 # 22-40,Alarcón,1105495,1279852,Tipo Tráfico,4'',,
+CRA 47 # 33A-47,"Alvarez las
+Américas",1107239,1280106,Tipo Tráfico,4'',,
+CRA 30 # 16-41,San Alonso,1106032,1280649,Tipo Tráfico,4'',,
+CRA 26A # 51-37,Nuevo Sotomayor,1106245,1278638,Tipo Tráfico,4'',,
+CL 17 # 29-49,San Alonso,1106012,1280607,Tipo Tráfico,4'',,
+CIRCUN 35 # 92-170 T 5,El Tejar,1107469,1276846,Tipo Tráfico,4'',,
+CL 39 # 24-43,Bólivar,1105993,1279125,Tipo Tráfico,4'',,
+CL 103 # 22A-68/ 72,Provenza,1106428,1275500,Tipo Tráfico,4'',,
+CL 44 # 28-14,Sotomayor,1106484,1279116,Tipo Tráfico,4'',,
+CL 55 # 28-25,Bolarqui,1106502,1278211,Tipo Tráfico,4'',,
+CRA 13 # 96-30,Conquistadores,1105068,1275750,Tipo Tráfico,4'',,
+CRA 13 # 96-18,Conquistadores,1105105,1275840,Tipo Tráfico,4'',,
+CL 24N # 18-66 P 1,San Valentín,1104351,1283285,Tipo Tráfico,4'',,
+CL 22N # 18-63,San Valentín,1104433,1283227,Tipo Tráfico,4'',,
+CL 13 # 23-37,Mutualidad,1105382,1280816,Tipo Tráfico,4'',,
+CL 32 # 47-02,"Alvarez las
+Américas",1107167,1280244,Tipo Milán,3'',,
+CRA 14#22,Granada,1104677,1279828,Tipo Tráfico,4'',,
+CL 19 # 29-60,San Alonso,1106043,1280410,Tipo Tráfico,4'',,
+CL 19 # 29-30,San Alonso,1106024,1280406,Tipo Tráfico,4'',,
+CL 30 NORTE # 9B-10 T 14,"Villas de San
+Ignacio",1103358,1283194,Tipo Tráfico,4'',,
+CL 30 NORTE # 9B-58 T 3,"Villas de San
+Ignacio",1103431,1283105,Tipo Tráfico,4'',,
+CL 48 # 39-41,"Cabecera del
+Llano",1107239,1278892,Tipo Tráfico,4'',,
+CRA 40 # 46-92 BL B,"Cabecera del
+Llano",1107298,1278937,Tipo Tráfico,4'',,
+CRA 11#34 ESQUINA,Garcia Rovira,1104665,1278991,Tipo Tráfico,4'',,
+CL 14#10-45,Garcia Rovira,1104611,1278991,Tipo Tráfico,4'',,
+CRA 38 # 42-64 OF,"Cabecera del
+Llano",1107056,1279317,Tipo Tráfico,4'',,
+CRA 47 # 65-12,La Floresta,1107386,1277670,Tipo Milán,3'',,
+CRA 45 # 62-22,La Floresta,1107296,1277853,Tipo Tráfico,4'',,
+CL 31 # 23-28,"Antonia Santos
+centro",1105648,1279659,Tipo Tráfico,4'',,
+CRA 29 # 16-09,San Alonso,1105946,1280674,Tipo Tráfico,4'',,
+CRA 22#30-69,"Antonia Santos
+centro",1105534,1279648,Tipo Tráfico,4'',,
+CL 12 # 25-56,Universidad,1105563,1280963,Tipo Tráfico,4'',,
+CL 22 # 22-30,Alarcón,1105457,1279998,Tipo Tráfico,4'',,
+CL 29#5,Girardot,1104094,1279239,Tipo Tráfico,6'',,
+CRA 2 OCC#31,23 de Junio,1103896,1278956,Tipo Milán,3'',,
+CRA 3 CL # 64A MZ C CASA 78,"Ciudadela Real de
+Minas",1105256,1276762,Tipo Tráfico,4'',,
+CRA 8 # 69-26,Bucaramanga,1105099,1276160,Tipo Piso,2'',,
+CL 41 # 31-120,Mejoras Públicas,1106573,1279400,Tipo Tráfico,6'',,
+CL 41 # 31-69,Mejoras Públicas,1106536,1279349,Tipo Tráfico,4'',,
+CRA 48 # 30-67,"Alvarez las
+Américas",1107222,1280175,Tipo Tráfico,4'',,
+CL 34 # 22-35,"Antonia Santos
+centro",1105667,1279381,Tipo Tráfico,4'',,
+CRA 22#34-38 TORRE VALLARTA,"Antonia Santos
+centro",1105649,1279322,Tipo Tráfico,6'',,
+CL 9 # 22-29,Comuneros,1105192,1281180,Tipo Tráfico,4'',,
+CL 14 # 26-64,San Francisco,1105708,1280814,Tipo Tráfico,4'',,
+CRA 24 # 31-40,"Antonia Santos
+centro",1105711,1279640,Tipo Tráfico,4'',,
+CL 21 # 29-13,San Alonso,1106040,1280225,Tipo Milán,3'',,
+CRA 36 # 37-30,El Prado,1106881,1279582,Tipo Tráfico,4'',,
+CL 34 # 32-34 HOTEL BUENAVISTA,Mejoras Públicas,1106510,1279753,Tipo Tráfico,4'',,
+CRA 49 # 54-210,Pan de Azucar,1107621,1278130,Tipo Tráfico,4'',,
+CRA 23 # 20-33,San Francisco,1105476,1280167,Tipo Tráfico,4'',,
+CL 11 # 26-05,Universidad,1105573,1281079,Tipo Tráfico,4'',,
+CRA 25 # 10-12,Universidad,1105481,1281119,Tipo Tráfico,4'',,
+CL 42#16-126,Centro,1105398,1278740,Tipo Tráfico,4'',,
+CL 110 # 21-17,"Granjas de
+Provenza",1106111,1275068,Tipo Tráfico,4'',,
+CRA 21 # 20,San Francisco,1105285,1280153,Tipo Tráfico,4'',,
+CL 9#16-29,Comuneros,1104664,1281077,Tipo Tráfico,4'',,
+CL 38 # 34-61,El Prado,1106796,1279527,Tipo Tráfico,4'',,
+CRA 28 # 50-53,Sotomayor,1106451,1278584,Tipo Tráfico,4'',,
+CL 52 #17-06,La Concordia,1105727,1278109,Tipo Tráfico,4'',,
+CRA 25 # 14-61,San Francisco,1105556,1280743,Tipo Tráfico,4'',,
+CRA 30 # 34-39,Mejoras Públicas,1106397,1279638,Tipo Tráfico,4'',,
+CL 65 # 12W-30,La Gran Ladera,1104341,1276196,Tipo Tráfico,4'',,
+CRA 26 # 34-29 GARAJE,"Antonia Santos
+centro",1105991,1279453,Tipo Tráfico,4'',,
+CRA 16 # 16-31,San Francisco,1104757,1280409,Tipo Tráfico,4'',,
+CL DE LOS ESTUDIANTES # 9-82,"Ciudadela Real de
+Minas",1105322,1277540,Tipo Tráfico,4'',,
+CRA 39A # 44-72,"Cabecera del
+Llano",1107230,1279214,Tipo Milán,3'',,
+CRA 39A # 44-72,"Cabecera del
+Llano",1107227,1279217,Tipo Tráfico,4'',,
+CL 35 #6-77,Alfonso López,1104338,1278802,Tipo Milán,3'',,
+AV LOS BUCAROS ESTE # 60-13,"Ciudadela Real de
+Minas",1105464,1277369,Tipo Milán,3'',,
+CL 14A # 32B-68,San Alonso,1106441,1280742,Tipo Milán,3'',,
+CL 31 # 31-40,La Aurora,1106328,1280010,Tipo Tráfico,4'',,
+CL 15 # 26-83,San Francisco,1105744,1280734,Tipo Milán,3'',,
+ESA CHIMITÁ,Río de Oro II,1100657,1276767,Tipo Milán,2'',,
+CAFE MADRID HUEVOS KIKES,"No aplica -
+Bucaramanga",1101897,1280459,Tipo Tráfico,4'',,
+CRA 38 # 35-20,El Prado,1106989,1279740,Tipo Tráfico,4'',,
+CRA 20 # 50-77,La Concordia,1105921,1278346,Tipo Milán,3'',,
+CL 50 # 25-15,Nuevo Sotomayor,1106138,1278809,Tipo Milán,3'',,
+CRA 51 # 50-15,Pan de Azucar,1107713,1278950,Tipo Milán,3'',,
+CL 24# 20,Alarcón,1105284,1279857,Tipo Tráfico,4'',,
+CRA 32 ESQ NORTE C.A.I. CL 48,Sotomayor,1106663,1278821,Tipo Tráfico,4'',,
+CL 41 # 37-04,"Cabecera del
+Llano",1106984,1279475,Tipo Tráfico,4'',,
+CL 48 # 28-74,Sotomayor,1106597,1278803,Tipo Tráfico,4'',,
+CRA 27 # 37-33 OF 715,Mejoras Públicas,1106260,1279235,Tipo Tráfico,4'',,
+CRA 26 # 41-46,Bólivar,1106201,1278963,Tipo Tráfico,4'',,
+CL 59 # 17F-39 ACCESO HOTEL,Ricaurte,1106211,1277804,Tipo Tráfico,4'',,
+"CL 34 # 26-03 CENT MED
+ODONTOLOG","Antonia Santos
+centro",1105971,1279497,Tipo Tráfico,4'',,
+CRA 24 # 30-65,"Antonia Santos
+centro",1105688,1279735,Tipo Tráfico,4'',,
+CRA 29 #5 SANFER,"Zona Industrial Autopista a Bucaramanga lado
+sur",1102107,1275210,Tipo Milán,3'',,
+CRA 8 # 61-137,"Ciudadela Real de
+Minas",1105447,1277180,Tipo Milán,3'',,
+CRA 17#5-02,Comuneros,1104632,1281442,Tipo Tráfico,4'',,
+CRA 16 # 11,Modelo,1104659,1280874,Tipo Tráfico,4'',,
+CL 12 # 18,Modelo,1104863,1280838,Tipo Tráfico,4'',,
+CRA 2 # 45-44,Sotomayor,1106632,1278993,Tipo Tráfico,4'',,
+CRA 47 # 33A-94,"Alvarez las
+Américas",1107260,1280048,Tipo Milán,3'',,
+CRA 11W # 64-41,Monterredondo,1104343,1276248,Tipo Tráfico,4'',,
+CRA 34W # 71-10,"Quebrada La
+iglesia I",1103752,1275298,Tipo Tráfico,4'',,
+TRANS 29A # 105-08,Asturias,1107226,1275908,Tipo Milán,3'',,
+DG 105 # 27-39,Asturias,1107148,1275792,Tipo Milán,3'',,
+CL 31 # 24-24,"Antonia Santos
+centro",1105731,1279697,Tipo Tráfico,4'',,
+CL 34 # 34-35,"Alvarez las
+Américas",1106725,1279841,Tipo Milán,3'',,
+DG 20 # 99-15,Provenza,1106257,1275706,Tipo Milán,3'',,
+CRA 21A 105-20 BLOQ 1,Provenza,1106157,1275367,Tipo Milán,3'',,
+TRANS 28 # 105-06,Asturias,1107179,1275821,Tipo Milán,3'',,
+CL 109 # 31-06,Villa Inés,1107278,1275924,Tipo Piso,2'',,
+CRA 29 # 93-31,Porto Fino,1107014,1276428,Tipo Milán,3'',,
+CL 111 # 19-26,"Granjas de
+Provenza",1106023,1275036,Tipo Milán,3'',,
+CL 106 # 23A-06,Provenza,1106645,1275206,Tipo Milán,3'',,
+CL 103 # 13D-38 GARAJE,"Jardines de
+Coaviconsa",1105407,1275564,Tipo Milán,3'',,
+"CRA 10-BETANIA SECTOR E-
+PEATONAL 2","Villas de San
+Ignacio",1103386,1282702,Tipo Tráfico,4'',,
+CRA 57 # 16-16 BUENOS AIRES,Buenos Aires,1107819,1280525,Tipo Piso,2'',,
+CRA 55 # 51-120,Pan de Azucar,1107953,1278814,Tipo Tráfico,4'',,
+CL 16 # 60-04 IGLESIA,Buenos Aires,1107962,1280500,Tipo Piso,2'',,
+CRA 24 # 31-64,"Antonia Santos
+centro",1105718,1279617,Tipo Tráfico,4'',,
+CRA 24 # 14-07,San Francisco,1105454,1280769,Tipo Piso,2'',,
+CRA 25 # 19-04,San Francisco,1105623,1280325,Tipo Milán,3'',,
+CL 17 # 23-10,San Francisco,1105415,1280463,Tipo Milán,3'',,
+CRA 23 # 14-40,San Francisco,1105357,1280673,Tipo Piso,2'',,
+CL 22 # 24-05,San Francisco,1105609,1280042,Tipo Milán,3'',,
+CRA 25 # 24-08,Alarcón,1105698,1279989,Tipo Milán,3'',,
+CRA 23 # 19-43,San Francisco,1105468,1280210,Tipo Milán,3'',,
+CL 33 # 23-67,"Antonia Santos
+centro",1105745,1279530,Tipo Piso,2'',,
+CL 34 # 24-82,"Antonia Santos
+centro",1105885,1279460,Tipo Milán,3'',,
+CRA 26 # 32-58,"Antonia Santos
+centro",1105930,1279610,Tipo Milán,3'',,
+CRA 25 # 34-06,"Antonia Santos
+centro",1105902,1279452,Tipo Milán,3'',,
+CRA 23 # 33-87,"Antonia Santos
+centro",1105725,1279402,Tipo Milán,3'',,
+CL 50 # 26-85,Nuevo Sotomayor,1106286,1278718,Tipo Piso,2'',,
+CL 34 # 36-72,El Prado,1106924,1279866,Tipo Tráfico,4'',,
+CRA 27 # 11,Universidad,1105752,1281089,Tipo Tráfico,4'',,
+CL 17 # 25-10,San Francisco,1105611,1280517,Tipo Tráfico,4'',,
+CL 18 # 32-13,San Alonso,1106239,1280560,Tipo Piso,2'',,
+CL 18 # 27-63,San Alonso,1105875,1280484,Tipo Piso,2'',,
+CRA 26 # 20-58,San Francisco,1105753,1280187,Tipo Milán,3'',,
+CL 41 # 32-12,Mejoras Públicas,1106585,1279408,Tipo Piso,2'',,
+CL 36 # 34-63,El Prado,1106781,1279688,Tipo Piso,2'',,
+CL 35 # 33-50,El Prado,1106680,1279735,Tipo Milán,3'',,
+CRA 33 # 35-57,El Prado,1106629,1279659,Tipo Piso,2'',,
+CRA 35 # 38-10,El Prado,1106813,1279536,Tipo Piso,2'',,
+CL 38 # 33-01,El Prado,1106662,1279504,Tipo Piso,2'',,
+CRA 30 # 32-53,Mejoras Públicas,1106308,1279801,Tipo Milán,3'',,
+CL 13 # 26A-27/ 29,Universidad,1105726,1280908,Tipo Tráfico,4'',,
+CL 9 # 25-76,Universidad,1105538,1281251,Tipo Tráfico,4'',,
+CRA 27 # 9-10,Universidad,1105761,1281304,Tipo Tráfico,4'',,
+CRA 27 # 10-78,Universidad,1105727,1281102,Tipo Tráfico,4'',,
+CRA 31 # 16-76,San Alonso,1106111,1280627,Tipo Tráfico,6'',,
+CL 71 # 53-01,Lagos del Cacique,1107919,1277555,Tipo Milán,3'',,
+CL 71 # 53-01,Lagos del Cacique,1107931,1277545,Tipo Tráfico,6'',,
+CL 71 # 54-151,Lagos del Cacique,1108215,1277599,Tipo Milán,3'',,
+DG 14C # 57-59 BL A,"Ciudadela Real de
+Minas",1105719,1277682,Tipo Tráfico,6'',,
+CRA 4 # 65A-56,Canelos,1105463,1276783,Tipo Milán,3'',,
+PLAZA MAYOR ENT 15,"Ciudadela Real de
+Minas",1105307,1277473,Tipo Tráfico,6'',,
+CL 60 # 8W-92,Prados Mutis,1104322,1276685,Tipo Piso,2'',,
+CRA 8W # 61-18,Prados Mutis,1104449,1276729,Tipo Milán,3'',,
+CL 56 # 7W-04,Mutis,1104406,1277012,Tipo Tráfico,4'',,
+PLAZA MAYOR ENT 6,"Ciudadela Real de
+Minas",1105329,1277329,Tipo Tráfico,6'',,
+CRA 5 # 62-06,"Ciudadela Real de
+Minas",1105126,1277151,Tipo Piso,2'',,
+CL 60 # 1-111 CASA 71,"Ciudadela Real de
+Minas",1104910,1277164,Tipo Milán,3'',,
+CRA 4W # 55-57,"Ciudadela Real de
+Minas",1104704,1277434,Tipo Milán,3'',,
+CL 55 # 2-21 CASA 16,"Ciudadela Real de
+Minas",1104755,1277394,Tipo Milán,3'',,
+CRA 4 CL 64 BL 4,"Ciudadela Real de
+Minas",1105272,1276910,Tipo Milán,3'',,
+AV GUAYACANES CRA 2A BL 8,"Ciudadela Real de
+Minas",1105187,1276851,Tipo Tráfico,4'',,
+CL 65C # 2C-24,Cordoncillo I,1105383,1276419,Tipo Piso,2'',,
+CRA 18W # 61A-38,Brisas del Mutis,1103949,1276346,Tipo Milán,3'',,
+CL 67 # 28-111/ 121,Puerta del Sol,1106692,1277367,Tipo Milán,3'',,
+DG 15 # 58-16,Ricaurte,1106163,1277881,Tipo Tráfico,4'',,
+CL 58A # 17F-58,Ricaurte,1106207,1277849,Tipo Tráfico,4'',,
+CL 68 # 18-30,La Victoria,1106299,1276910,Tipo Milán,3'',,
+DG 15#50,La Concordia,1105664,1278285,Tipo Tráfico,4'',,
+CL 1#21-17,San Cristobal,1105099,1281867,Tipo Milán,3'',,
+CL 3N # 23C-12,El Plan,1105199,1281986,Tipo Milán,3'',,
+CL 1N #19-18,La Juventud,1104878,1281810,Tipo Milán,3'',,
+CL 3N # 17B-08,La Juventud,1104642,1281927,Tipo Milán,3'',,
+CRA 11 # 29N-24,Las Hamacas,1103877,1283444,Tipo Piso,2'',,
+CL 34 # 43-09,"Alvarez las
+Américas",1107111,1279962,Tipo Piso,2'',,
+CL 31 # 41-56,"Alvarez las
+Américas",1106938,1280253,Tipo Piso,2'',,
+CRA 18A # 8AN-05 XIII JUNIO,13 de Junio,1104520,1282483,Tipo Piso,2'',,
+CL 74A # 49-62 CASA 112 CONJ 2,Lagos del Cacique,1108021,1276828,Tipo Milán,3'',,
+AV EL TEJAR # 104-25 CASA 28A,Fatima,1107907,1276466,Tipo Milán,3'',,
+CL 10 # 28-02,Universidad,1105839,1281143,Tipo Milán,3'',,
+AV EL TEJAR # 104-25 CASA 1G.,Fatima,1107837,1276461,Tipo Tráfico,4'',,
+CL 94 # 47-89,Lagos del Cacique,1107766,1276715,Tipo Milán,3'',,
+CL 94 # 48-37 CASA 13,Lagos del Cacique,1107941,1276830,Tipo Milán,3'',,
+CL 68A # 10A-26,África,1105774,1276433,Tipo Milán,3'',,
+CL 71 # 29A-13,Antonia Santos sur,1106823,1277146,Tipo Milán,3'',,
+"AV QUEBRADA SECA # 33A-207  T
+12",Quinta Brigada,1106995,1280424,Tipo Milán,3'',,
+"CL 32 # 49-74 URB BALCON DE
+LAS AMERICAS","Alvarez las
+Américas",1107349,1280196,Tipo Tráfico,4'',,
+CRA 23 # 13,Mutualidad,1105257,1280797,Tipo Milán,3'',,
+CL 14 # 22,Mutualidad,1105266,1280753,Tipo Piso,3'',,
+CRA 15G # 0BIS-12,Villa Mercedes,1104236,1281872,Tipo Tráfico,4'',,
+CL 1B # 16C-02,Bosque norte,1104373,1281918,Tipo Tráfico,6'',,
+CRA 17 CL 2N,Transición,1104590,1281864,Tipo Milán,3'',,
+"PERIMETRAL 2C # 21-13
+TRANSICION",Transición,1104987,1281660,Tipo Milán,3'',,
+CL 1#21D,Transición,1105050,1281822,Tipo Milán,3'',,
+CL 36#13,Garcia Rovira,1104919,1278867,Tipo Tráfico,4'',,
+CRA 12#34,Garcia Rovira,1104763,1279038,Tipo Milán,3'',,
+CL 16#31,Centro,1105005,1279366,Tipo Milán,3'',,
+CL 33#15-65,Centro,1105022,1279247,Tipo Piso,2'',,
+CRA 29 # 51-07,Sotomayor,1106521,1278484,Tipo Tráfico,4'',,
+CRA 15#35,Centro,1105051,1279057,Tipo Tráfico,4'',,
+CL 37#16,Centro,1105269,1278961,Tipo Milán,3'',,
+CRA 15#31-12,Centro,1104922,1279317,Tipo Tráfico,4'',,
+CL 33 #14-31,Centro,1104926,1279206,Tipo Piso,2'',,
+CL 33#13-25,Garcia Rovira,1104851,1279176,Tipo Milán,2'',,
+CL 35 # 23-83,"Antonia Santos
+centro",1105841,1279335,Tipo Piso,2'',,
+CRA 19#34,Centro,1105269,1279242,Tipo Milán,3'',,
+CRA15 #33,Centro,1104988,1279212,Tipo Tráfico,4'',,
+CRA 15#41 ESQUINA,Centro,1105152,1278806,Tipo Tráfico,4'',,
+CRA 15#36,Centro,1105057,1278980,Tipo Tráfico,4'',,
+CRA 15#30,Centro,1104887,1279402,Tipo Tráfico,4'',,
+CRA 16 # 10,Comuneros,1104632,1280973,Tipo Tráfico,4'',,
+CRA 15 # 9 - 07,Comuneros,1104503,1281032,Tipo Milán,3'',,
+CL 4N#15,Chapinero,1104333,1281481,Tipo Milán,3'',,
+CRA 18 # 10,Comuneros,1104812,1281016,Tipo Tráfico,4'',,
+CRA 15#22,Granada,1104753,1279859,Tipo Tráfico,4'',,
+CRA 15#20,Granada,1104721,1280019,Tipo Tráfico,4'',,
+CL 19A#13,Granada,1104533,1280082,Tipo Milán,3'',,
+CRA 15 #16,Gaitán,1104629,1280477,Tipo Tráfico,4'',,
+CRA 15#17,Gaitán,1104647,1280391,Tipo Tráfico,4'',,
+CRA 15#19,Granada,1104686,1280197,Tipo Tráfico,4'',,
+CRA 15 # 18,San Francisco,1104694,1280255,Tipo Tráfico,4'',,
+CRA 15#34,Centro,1105014,1279147,Tipo Tráfico,4'',,
+CL 29#5-17,Girardot,1104100,1279240,Tipo Piso,2'',,
+CL 36 # 24-82,Bólivar,1105979,1279281,Tipo Piso,2'',,
+CRA 28 # 58-09,Mercedes,1106560,1277908,Tipo Piso,2'',,
+CL 19 # 14-18/38,Gaitán,1104606,1280195,Tipo Piso,2'',,
+CL 16#14,Gaitán,1104550,1280457,Tipo Tráfico,4'',,
+CL 56 # 29-95,Bolarqui,1106754,1278059,Tipo Tráfico,6'',,
+CRA 33 # 69-04,Antonia Santos sur,1106844,1277410,Tipo Milán,3'',,
+CL 31 # 23-72,"Antonia Santos
+centro",1105697,1279681,Tipo Milán,3'',,
+CRA 28 # 55-07,Bolarqui,1106458,1278156,Tipo Milán,3'',,
+CRA 15 # 56-59,Gomez Niño,1105669,1277726,Tipo Milán,3'',,
+DG 14 # 56-59,"Ciudadela Real de
+Minas",1105640,1277704,Tipo Tráfico,4'',,
+CL 67 # 21-07,La Victoria,1106309,1277084,Tipo Tráfico,4'',,
+AV SAMANES # 9-140,"Ciudadela Real de
+Minas",1105575,1277541,Tipo Milán,3'',,
+CL  30 #5 OCC,Santander,1103744,1278824,Tipo Milán,3'',,
+CRA 8 OCC#29,Santander,1103570,1278688,Tipo Piso,2'',,
+CRA 15#4,Chapinero,1104330,1281382,Tipo Tráfico,4'',,
+CL 27#11 OCC,Santander,1103353,1278706,Tipo Milán,3'',,
+"CRA 31#42 OCC  ESQUINA
+CANCHA",Don Bosco,1103232,1278508,Tipo Milán,3'',,
+CL 61 # 7W-09,Mutis,1104531,1276824,Tipo Milán,3'',,
+CL 28AN # 10-27,Villa alegria I,1103792,1283333,Tipo Milán,3'',,
+CRA 10 # 31CN-38,Villa alegria II,1103773,1283688,Tipo Milán,3'',,
+CRA 31 # 52A-31,Campestre,1106664,1278307,Tipo Milán,3'',,
+CL 48 # 27A-08/ 16,Sotomayor,1106431,1278833,Tipo Piso,2'',,
+CL 42 # 28-72,Sotomayor,1106531,1279229,Tipo Milán,3'',,
+CL 28#0 ENTRE MZN E Y F,La Feria,1103460,1279243,Tipo Milán,3'',,
+CL 51 # 27A-73,Sotomayor,1106415,1278578,Tipo Piso,2'',,
+CL 21N # 16-79,Olas Bajas,1104320,1283124,Tipo Milán,3'',,
+CRA 20A # 25N-03,Claveriano,1104451,1283398,Tipo Milán,3'',,
+CRA 20E # 24AN-04,Claveriano,1104540,1283315,Tipo Milán,3'',,
+CRA 5 # 40N-05,Café Madrid,1103413,1283572,Tipo Milán,3'',,
+CRA 3 # 42N-110,Café Madrid,1103329,1284045,Tipo Milán,3'',,
+CRA 6 # 43N-16,Café Madrid,1103618,1283912,Tipo Tráfico,4'',,
+CL 42 # 27-45/ 59,Mejoras Públicas,1106343,1279126,Tipo Piso,2'',,
+CL 53 # 15-21,La Concordia,1105937,1278112,Tipo Tráfico,4'',,
+CL 52 # 17C-14,La Concordia,1105900,1278175,Tipo Piso,2'',,
+CL 52 # 31-11,Campestre,1106647,1278410,Tipo Milán,3'',,
+CRA 23 # 46-08,Nuevo Sotomayor,1106011,1278817,Tipo Tráfico,6'',,
+CL 58 # 30-67,Mercedes,1106719,1277981,Tipo Piso,2'',,
+CL 56 # 32-100,Mercedes,1106895,1278044,Tipo Tráfico,6'',,
+CL 63 # 30-05 BL 1,Conucos,1106670,1277771,Tipo Tráfico,6'',,
+CL 55B # 29-47,Bolarqui,1106686,1278115,Tipo Milán,3'',,
+CL 53 # 22-08,La Concordia,1106173,1278236,Tipo Milán,3'',,
+CL 55 # 22-72,La Concordia,1106303,1278075,Tipo Milán,3'',,
+CL 56 # 18-25,Ricaurte,1106148,1277943,Tipo Piso,2'',,
+CL 100 # 19-104 FONTANA,Fontana,1106102,1275675,Tipo Piso,2'',,
+CL 99 # 19-07,Fontana,1105997,1275728,Tipo Piso,2'',,
+CL 104A # 16-04,El Rocio,1105598,1275282,Tipo Milán,3'',,
+CL 103C # 16-60 VILLA ALICIA,Villa Alicia,1105599,1275392,Tipo Milán,3'',,
+CRA 15C # 106 ESQUINA,Toledo Plata,1105512,1274915,Tipo Milán,3'',,
+CRA 15E # 105-18,Villa Flor,1105645,1275080,Tipo Piso,2'',,
+CRA 15C # 105 ESQUINA,Villa Sara,1105493,1275003,Tipo Milán,2'',,
+"TRANS CENTRAL METROP # 103A-
+16 LOC 2","Jardines de
+Coaviconsa",1105509,1275489,Tipo Tráfico,4'',,
+BV FONTANA-26,Fontana,1105752,1275622,Tipo Milán,3'',,
+CL 103A # 16-06 CASA 41,Fontana,1105539,1275504,Tipo Tráfico,6'',,
+CRA 21 # 101-34 CASA 1,Fontana,1106102,1275577,Tipo Piso,2'',,
+CL 105 # 9-98,El Porvenir,1104989,1274933,Tipo Piso,2'',,
+CL 106 # 12-03,Malpaso,1105315,1274879,Tipo Milán,3'',,
+CL 106 # 9-44,Los Guaduales,1105181,1274835,Tipo Milán,3'',,
+CRA 25 # 10AN-02,Regadero Norte,1105277,1282220,Tipo Piso,2'',,
+CL 104A # 11D-05,Manuela Beltran,1105258,1275096,Tipo Milán,3'',,
+CRA 11B # 104-42,Manuela Beltran,1105172,1275108,Tipo Piso,2'',,
+CL 103F # 10-05 ISABELAR,Igsabelar,1105089,1275172,Tipo Milán,3'',,
+CRA 12 # 103D-48,Manuela Beltran,1105222,1275200,Tipo Piso,2'',,
+DG 15 # 55-09,La Concordia,1106070,1278000,Tipo Tráfico,4'',,
+CL 109 # 15-37,Dangond,1105333,1274536,Tipo Milán,3'',,
+CL 108B # 15ABIS-136 CASA 2,Dangond,1105517,1274589,Tipo Milán,3'',,
+CRA 16 # 108-21 MZ 3 CASA 15,Dangond,1105529,1274594,Tipo Milán,3'',,
+CRA 13C # 103B-25,"Jardines de
+Coaviconsa",1105343,1275431,Tipo Milán,3'',,
+CL 103A # 13B-03,"Jardines de
+Coaviconsa",1105320,1275489,Tipo Milán,3'',,
+CRA 13 # 103-11,"Jardines de
+Coaviconsa",1105242,1275531,Tipo Milán,3'',,
+CRA 36 # 48-145,"Cabecera del
+Llano",1107052,1278706,Tipo Milán,3'',,
+CL 103A # 8A-08,El Porvenir,1104672,1275317,Tipo Milán,3'',,
+CRA 7B # 103-19,El Porvenir,1104535,1275326,Tipo Milán,3'',,
+CL 104H # 5-02,El Porvenir,1104176,1274869,Tipo Piso,2'',,
+DG 104C # 104E-12,El Porvenir,1104273,1274960,Tipo Milán,3'',,
+CL 104H # 6-09,El Porvenir,1104363,1274843,Tipo Milán,3'',,
+CL 104I # 6A-41,El Porvenir,1104458,1274803,Tipo Milán,3'',,
+CL 34 # 33-17,"Alvarez las
+Américas",1106608,1279823,Tipo Piso,2'',,
+AV 87 # 18-10,Diamante II,1106071,1276257,Tipo Milán,3'',,
+CRA 17C # 90-13,San Luis,1105972,1276012,Tipo Tráfico,4'',,
+CL 70 # 43W-20,"Quebrada La
+iglesia I",1103676,1275452,Tipo Tráfico,4'',,
+CL 70 # 11W-200 TERMINAL,"Quebrada La
+iglesia II",1104625,1275733,Tipo Tráfico,6'',,
+CRA 22 # 11N-08,Esperanza III,1104979,1282255,Tipo Piso,2'',,
+CL 10N # 22-67,Esperanza II,1105026,1282140,Tipo Piso,2'',,
+CL 13N # 24-20,Esperanza III,1105048,1282417,Tipo Piso,2'',,
+CRA 22#12,Mutualidad,1105234,1280921,Tipo Milán,3'',,
+CRA 31 # 16N-01,Los Angeles,1105223,1282794,Tipo Tráfico,4'',,
+CL 16N # 19A-66 INT 3 MZ 7,Villa Rosa,1104701,1282923,Tipo Piso,2'',,
+CL 12AN # 20-66 INT 1 MZ 18,Villa Rosa,1104823,1282635,Tipo Tráfico,4'',,
+CL 19N # 16-75,Olas Altas,1104292,1282979,Tipo Milán,3'',,
+"CRA 16 # 21N-03 CASETA COCA
+COLA",Olas Bajas,1104229,1283081,Tipo Milán,3'',,
+CL 15CN # 22A-06 INT A,Villa Helena I,1104904,1282896,Tipo Milán,3'',,
+CL 16N # 25-30 INT A,Villa Helena I,1105028,1282866,Tipo Milán,3'',,
+CL 17N # 21-03 VILLA HELENA II,Villa Helena II,1104835,1283009,Tipo Milán,3'',,
+CRA 1 # 15N-03,Maria Paz,1103484,1282189,Tipo Milán,3'',,
+CRA 36 # 54-100,"Cabecera del
+Llano",1107138,1278145,Tipo Tráfico,4'',,
+CRA 10 # 26BISN-39,"Miradores del
+Kennedy",1103830,1283151,Tipo Milán,3'',,
+CL 16 # 17A-53,Altos del Progreso,1104423,1282859,Tipo Milán,3'',,
+CL 37#1OCC JAC LA JOYA,La Joya,1103838,1278315,Tipo Milán,3'',,
+CL 60 # 17F-52,Ricaurte,1106301,1277778,Tipo Tráfico,4'',,
+CL 58 # 4-27,"Ciudadela Real de
+Minas",1104990,1277320,Tipo Tráfico,4'',,
+CL 64E # 1W-44,"Ciudadela Real de
+Minas",1105082,1276552,Tipo Piso,2'',,
+AV 89 # 22-179,Diamante II,1106611,1276175,Tipo Tráfico,6'',,
+CRA 3 # 60-80 MZ C CASA 27,"Ciudadela Real de
+Minas",1104968,1277040,Tipo Milán,3'',,
+CRA 29 # 94-03 BL 1 INT 06,Villa Diamante,1106999,1276364,Tipo Milán,3'',,
+CRA 29 # 94-03,Villa Diamante,1106993,1276398,Tipo Tráfico,6'',,
+"CRA 14C CL 103C 3C SUBEST
+TELE",Manuela Beltran,1105443,1275379,Tipo Milán,3'',,
+CRA 19 # 101-13,Fontana,1105978,1275581,Tipo Tráfico,6'',,
+CL 103 # 16-39,Nueva Fontana,1105573,1275590,Tipo Tráfico,4'',,
+CL 69 # 7B-03,Juan XXIII,1105509,1276231,Tipo Piso,2'',,
+"BV FONTANA-26 CL 102 MZ D
+CASA 19",Fontana,1105692,1275482,Tipo Milán,3'',,
+CRA 32 # 100-24,La Libertad,1107216,1276352,Tipo Milán,3'',,
+CL 117 # 20-44,Provenza,1106063,1274559,Tipo Tráfico,4'',,
+"CL 107F CRA 15C CASA 94
+BALCONES DEL SUR",Toledo Plata,1105571,1274669,Tipo Milán,3'',,
+CL 16 # 57-42 BUENOS AIRES,Buenos Aires,1107861,1280521,Tipo Milán,3'',,
+CL 32 # 33B-17,"Alvarez las
+Américas",1106624,1280037,Tipo Tráfico,6'',,
+CL 12N # 18A-66 INT 3 MZ 31,Villa Rosa,1104647,1282587,Tipo Tráfico,4'',,
+CL 12A # 28-11,Universidad,1105837,1280967,Tipo Milán,3'',,
+CL 32 # 28-31,La Aurora,1106132,1279810,Tipo Tráfico,4'',,
+CL 20 # 27 ESQUINA,San Alonso,1105845,1280282,Tipo Tráfico,4'',,
+CRA 25 # 30-26,"Antonia Santos
+centro",1105730,1279798,Tipo Tráfico,4'',,
+CRA 18 # 52-06,La Concordia,1105791,1278221,Tipo Tráfico,4'',,
+CRA 15D # 105-11 ROBLES,Robles,1105549,1275018,Tipo Milán,3'',,
+COLSEG NORTE BL 28,Colseguros Norte,1104333,1282247,Tipo Tráfico,4'',,
+CL 48 # 23-27,Nuevo Sotomayor,1106107,1278664,Tipo Tráfico,4'',,
+COLSEG NORTE BL 4,Colseguros Norte,1104372,1282132,Tipo Milán,3'',,
+"VIA AL MAR # 7N-71 MOLINOS
+ZULIA",Esperanza III,1104663,1282213,Tipo Tráfico,4'',,
+CL 8N # 19-41 INT 4 MZ 33,Esperanza III,1104801,1282255,Tipo Piso,2'',,
+CL 41 # 38-95 T 2,El Prado,1107029,1279572,Tipo Tráfico,6'',,
+CL 45 #23O,Quinta Estrella,1103339,1277159,Tipo Milán,3'',,
+CRA 45 #14OCC,Quinta Estrella,1103237,1277111,Tipo Milán,3'',,
+CRA 17 #41 ESQUINA,Centro,1105184,1278723,Tipo Tráfico,4'',,
+CRA 17#43 ESQUINA,Centro,1105185,1278643,Tipo Tráfico,4'',,
+DG 15#16A,La Concordia,1105526,1278376,Tipo Tráfico,6'',,
+CL 54N # 23-04,Colorados,1104230,1285589,Tipo Tráfico,6'',,
+CL 1B # 24-04 MZ B,San Cristobal,1105250,1281832,Tipo Milán,3'',,
+CRA 21#8 ESQUINA,Comuneros,1105075,1281243,Tipo Milán,3'',,
+CRA 20 # 20,San Francisco,1105192,1280152,Tipo Piso,2'',,
+CRA 17 # 19,San Francisco,1104883,1280170,Tipo Piso,2'',,
+CRA 18 # 15,San Francisco,1104910,1280580,Tipo Tráfico,4'',,
+CL 14 # 18-09,Modelo,1104895,1280677,Tipo Piso,2'',,
+CRA 16 ENTRE 34 Y 33,Centro,1105082,1279183,Tipo Milán,3'',,
+CRA 15 # 10-66,Gaitán,1104550,1280876,Tipo Tráfico,4'',,
+CRA 15# BULEVAR BOLÍVAR,Modelo,1104584,1280821,Tipo Tráfico,4'',,
+CRA 15# 15-73,San Francisco,1104657,1280440,Tipo Tráfico,4'',,
+CL 28#19,Alarcón,1105213,1279729,Tipo Tráfico,4'',,
+CL 21#32,"Antonia Santos
+centro",1105504,1279512,Tipo Tráfico,4'',,
+CRA 28 # 33-84,Mejoras Públicas,1106185,1279601,Tipo Tráfico,4'',,
+CRA 14#3,Chapinero,1104237,1281469,Tipo Tráfico,4'',,
+CL 9 #18 ESQUINA,Comuneros,1104816,1281096,Tipo Milán,3'',,
+CRA 18 # 7,Comuneros,1104761,1281273,Tipo Tráfico,4'',,
+CRA 14#43 ESQUINA,Garcia Rovira,1105043,1278616,Tipo Tráfico,4'',,
+"KM4 VIA PALENQUE CAFE MADRID
+PARQUE INDUSTRIAL",Río de Oro I,1101187,1278111,Tipo Tráfico,4'',,
+CL 52 # 23-49,Nuevo Sotomayor,1106245,1278402,Tipo Tráfico,4'',,
+"VIA PALENQUE-CAFE CRA D- 45
+MZ H",Río de Oro I,1101045,1278115,Tipo Tráfico,4'',,
+"VIA PALENQUE-CAFE CRA 2 # 3-
+102 BODEGA 3",Río de Oro I,1100501,1277433,Tipo Milán,3'',,
+VIA PALENQUE-CAFE CRA 3 # 1-76,Río de Oro I,1100352,1277334,Tipo Milán,3'',,
+"VIA PALENQUE-CAFE CRA 1 # 2-57
+BODEGA 6",Río de Oro I,1100375,1277221,Tipo Milán,3'',,
+CL 41 # 34-60,El Prado,1106809,1279430,Tipo Tráfico,4'',,
+CL 53 # 17B-52 PARQUEADERO,La Concordia,1105898,1278103,Tipo Tráfico,4'',,
+CL 51A #14,San Miguel,1105216,1277955,Tipo Milán,3'',,
+CRA 26 # 9-55,Universidad,1105563,1281185,Tipo Tráfico,4'',,
+CRA 21B # 111-83,Provenza,1106243,1274905,Tipo Piso,2'',,
+CRA 25 # 41-25,Bólivar,1106151,1278940,Tipo Milán,3'',,
+CRA 54A # 73-15,Lagos del Cacique,1108292,1277299,Tipo Piso,2'',,
+CRA 54 # 71-27,Lagos del Cacique,1108097,1277548,Tipo Piso,2'',,
+"CL 30 # 27-46 (ENTREGAR CRA 27
+# 30-15)",La Aurora,1105953,1279902,Tipo Milán,3'',,
+CL 69 # 27-87,La Salle,1106652,1277024,Tipo Milán,3'',,
+CL 89 # 17C-04,San Luis,1105920,1276118,Tipo Milán,3'',,
+CRA 15A # 107-57,Dangond,1105377,1274724,Tipo Milán,3'',,
+CRA 27 # 18-74,San Francisco,1105803,1280371,Tipo Tráfico,4'',,
+CRA 17 #45-21,La Concordia,1105460,1278649,Tipo Milán,3'',,
+CRA 20 # 22-37,Alarcón,1105241,1279911,Tipo Tráfico,4'',,
+CRA 15#7-02,Chapinero,1104420,1281165,Tipo Tráfico,4'',,
+CRA 20 # 11,Mutualidad,1105031,1280954,Tipo Tráfico,4'',,
+TRANS ORIENTAL # 89-02,El Tejar,1107186,1277173,Tipo Tráfico,4'',,
+CL 21 # 29-54,San Alonso,1106079,1280221,Tipo Tráfico,4'',,
+CRA 21A # 117A-10,Provenza,1106135,1274558,Tipo Milán,3'',,
+CL 74A # 49-63,Lagos del Cacique,1107935,1276951,Tipo Milán,3'',,
+"CL 32 CRA 27 PARQUE DE LOS
+NIÑOS",La Aurora,1105936,1279909,Tipo Tráfico,4'',,
+CRA 39 # 42-42,"Cabecera del
+Llano",1107133,1279374,Tipo Tráfico,4'',,
+CL 55A # 7W-120,Mutis,1104263,1276976,Tipo Milán,3'',,
+"QUEBRADA PAN DE AZUCAR
+CASA 14","Cabecera del
+Llano",1107602,1279515,Tipo Milán,3'',,
+CRA 39 # 42-54,"Cabecera del
+Llano",1107156,1279353,Tipo Tráfico,4'',,
+CRA 8 #37-72,Alfonso López,1104493,1278656,Tipo Tráfico,4'',,
+CRA 26 # 35-12,"Antonia Santos
+centro",1106030,1279403,Tipo Piso,2'',,
+CRA 34 PASAJE CADENA,Centro,1105063,1279149,Tipo Milán,3'',,
+CRA 15#31,Centro,1104940,1279328,Tipo Tráfico,4'',,
+CRA 22 # 48-49,La Concordia,1106007,1278540,Tipo Piso,2'',,
+CL 98 # 14-03,Ciudad Venecia,1105344,1275740,Tipo Milán,3'',,
+CL 30A # 33-22,Quinta Dania,1106493,1280165,Tipo Tráfico,4'',,
+CL 105 # 16A - 85,El Rocio,1105831,1275235,Tipo Tráfico,4'',,
+CL 6 # 24-06,Comuneros,1105315,1281484,Tipo Piso,2'',,
+CRA 22 #35,"Antonia Santos
+centro",1105656,1279276,Tipo Tráfico,4'',,
+CRA 20#35,Centro,1105501,1279202,Tipo Milán,3'',,
+CRA 31#19-37,Centro,1105357,1279528,Tipo Tráfico,3'',,
+CRA 15#6 - 05,Chapinero,1104396,1281266,Tipo Tráfico,4'',,
+CRA 15 # 21,San Francisco,1104753,1279952,Tipo Tráfico,4'',,
+CRA 15 # 20,San Francisco,1104731,1280068,Tipo Tráfico,4'',,
+CRA 15 # 23-17,Granada,1104805,1279690,Tipo Tráfico,4'',,
+CRA 15 # 14-01,San Francisco,1104625,1280606,Tipo Tráfico,4'',,
+CL 9 # 24-55 APARTA-ESTUDIO 201,Comuneros,1105419,1281224,Tipo Tráfico,4'',,
+CRA 55 # 71-23 CASA 12,Altos del Lago,1108382,1277581,Tipo Milán,3'',,
+CL 14 # 27-03 B. LA UNIVERSIDAD,Universidad,1105749,1280842,Tipo Tráfico,4'',,
+CL 20 # 30-27,San Alonso,1106139,1280343,Tipo Tráfico,4'',,
+CRA 26A # 10-30,Universidad,1105660,1281128,Tipo Tráfico,4'',,
+CRA 7 # 42-44,Alfonso López,1104455,1278512,Tipo Milán,3'',,
+CL 45 # 27-61,Sotomayor,1106359,1278975,Tipo Tráfico,4'',,
+CL 22#14,Granada,1104675,1279843,Tipo Milán,3'',,
+CRA 24 # 80-52 T D,Diamante II,1106629,1276445,Tipo Tráfico,4'',,
+CL 21#10,Granada,1104306,1279849,Tipo Milán,3'',,
+CL 48#9 OCC,Campo Hermoso,1103659,1277408,Tipo Milán,3'',,
+CL 64 # 11W-03 T 1A,Monterredondo,1104309,1276295,Tipo Milán,3'',,
+CRA 6W # 55-01,Mutis,1104365,1277105,Tipo Milán,3'',,
+CRA 7BW # 45-67,"Ciudadela Real de
+Minas",1105244,1277354,Tipo Tráfico,6'',,
+CL 59 # 7-61,"Ciudadela Real de
+Minas",1105162,1277454,Tipo Milán,3'',,
+AV LOS BUCAROS # 60-319 BL 1,"Ciudadela Real de
+Minas",1105764,1277340,Tipo Tráfico,6'',,
+CL 61 # 10-150,"Ciudadela Real de
+Minas",1105781,1277328,Tipo Tráfico,4'',,
+AV LOS BUCAROS # 60-319 BL 2,"Ciudadela Real de
+Minas",1105714,1277337,Tipo Milán,3'',,
+CRA 55 # 51-117 APARTAESTUDIO,"Ciudadela Real de
+Minas",1105428,1277670,Tipo Milán,3'',,
+CRA 8 # 61-146,"Ciudadela Real de
+Minas",1105424,1277173,Tipo Milán,3'',,
+CRA 8 # 64C-39 CASA 145,"Ciudadela Real de
+Minas",1105579,1276986,Tipo Milán,3'',,
+CL 64C-CRA 3W CUARTO DE ASEO,"Ciudadela Real de
+Minas",1104943,1276539,Tipo Milán,3'',,
+AV GUAYACANES CRA 1B BL 13,"Ciudadela Real de
+Minas",1105155,1276701,Tipo Milán,3'',,
+AV GUAYACANES CRA 1B BL 11,"Ciudadela Real de
+Minas",1105171,1276764,Tipo Milán,3'',,
+CL REAL # 5B-83,"Ciudadela Real de
+Minas",1105251,1277231,Tipo Milán,3'',,
+CL REAL # 6-74,"Ciudadela Real de
+Minas",1105281,1277244,Tipo Tráfico,4'',,
+"CRA 5B CL REAL INT 1 CONJ.
+RESIDENCIAL CALLE REAL","Ciudadela Real de
+Minas",1105199,1277138,Tipo Milán,3'',,
+CL REAL # 5B-113,"Ciudadela Real de
+Minas",1105231,1277142,Tipo Milán,3'',,
+"CL REAL # 5A-42 CONDOMINIO
+REAL DEL LLANO","Ciudadela Real de
+Minas",1105253,1277128,Tipo Milán,3'',,
+CL 61 # 9-23,"Ciudadela Real de
+Minas",1105630,1277173,Tipo Milán,3'',,
+CRA 2 GUAY O MZ E CASA 46,"Ciudadela Real de
+Minas",1105237,1276666,Tipo Milán,3'',,
+CRA 1B GUAY O MZ F CASA 60,"Ciudadela Real de
+Minas",1105227,1276572,Tipo Milán,3'',,
+CL 67B # 27-92,La Salle,1106647,1277172,Tipo Milán,3'',,
+CRA 15 # 55-18,Gomez Niño,1105627,1277857,Tipo Milán,3'',,
+CL 25 #4,Girardot,1104036,1279475,Tipo Milán,3'',,
+CRA 17C # 63-11,La Ceiba,1106197,1277468,Tipo Milán,3'',,
+CL 14 # 40-81,Morrorico,1107323,1280772,Tipo Tráfico,4'',,
+CL 67 # 24-37,La Victoria,1106456,1277201,Tipo Tráfico,4'',,
+CRA 19#6,Comuneros,1104833,1281391,Tipo Milán,3'',,
+CL 10 # 21-77,Comuneros,1105179,1281082,Tipo Tráfico,4'',,
+CRA 44W # 59A-48,Estoraques,1103153,1275873,Tipo Milán,3'',,
+CRA 48W # 59B-43,Estoraques,1103041,1275786,Tipo Milán,3'',,
+CL 60 # 1W-03,"Ciudadela Real de
+Minas",1104834,1277097,Tipo Milán,3'',,
+CRA 2W # 63-08,Mutis,1104879,1276914,Tipo Milán,3'',,
+"AV LOS BUCAROS # 2-108 CONJ.
+RESIDENCIAL LAURELES","Ciudadela Real de
+Minas",1104781,1277455,Tipo Milán,3'',,
+CRA 3 # 55-146,"Ciudadela Real de
+Minas",1104893,1277305,Tipo Milán,3'',,
+CRA 3 # 63-60,"Ciudadela Real de
+Minas",1105099,1276987,Tipo Milán,3'',,
+CRA 5 # 61-15 INT 5,"Ciudadela Real de
+Minas",1105128,1277221,Tipo Milán,3'',,
+AV LOS BUCAROS # 3-35,"Ciudadela Real de
+Minas",1104843,1277464,Tipo Milán,3'',,
+AV SAMANES # 9-140,"Ciudadela Real de
+Minas",1105430,1277453,Tipo Milán,3'',,
+CL 60 # 9-93,"Ciudadela Real de
+Minas",1105485,1277525,Tipo Milán,3'',,
+AV SAMANES # 9-75,"Ciudadela Real de
+Minas",1105452,1277497,Tipo Tráfico,6'',,
+CL ESTUDIANTES # 9-220,"Ciudadela Real de
+Minas",1105369,1277675,Tipo Milán,3'',,
+CL 61 # 1W-35 CASA 2,"Ciudadela Real de
+Minas",1105038,1276793,Tipo Milán,3'',,
+"VIA CUCUTA # 258  B LOS LOS
+SAUCES",Los Sauces,1107125,1280761,Tipo Tráfico,4'',,
+CRA 64 # 18-50,Buenavista,1108182,1280307,Tipo Tráfico,4'',,
+CRA 8 # 64-22 CASA 32,"Ciudadela Real de
+Minas",1105505,1277049,Tipo Milán,3'',,
+CL 94 # 48-37 CASA 62,Lagos del Cacique,1107890,1276924,Tipo Tráfico,4'',,
+CRA 9A # 64A-24 CASA 37,"Ciudadela Real de
+Minas",1105658,1277092,Tipo Milán,3'',,
+CRA 3 # 60-22 CASA 2 ETAPA 2,"Ciudadela Real de
+Minas",1104921,1277115,Tipo Milán,3'',,
+CL DE LOS ESTUDIANTES # 10-20,"Ciudadela Real de
+Minas",1105385,1277762,Tipo Milán,3'',,
+CRA 15#1N - 40,Villa Mercedes,1104092,1281842,Tipo Tráfico,4'',,
+CRA 26A # 12-10,Universidad,1105663,1280983,Tipo Milán,3'',,
+CL 16 # 25-58,San Francisco,1105634,1280618,Tipo Tráfico,4'',,
+CL 50 # 29-31,Sotomayor,1106585,1278604,Tipo Tráfico,4'',,
+CL 50 # 28-34,Sotomayor,1106497,1278616,Tipo Tráfico,4'',,
+CL 41#14-82 ANDES 41,Centro,1105099,1278784,Tipo Tráfico,6'',,
+CRA 20 # 51-57,La Concordia,1105955,1278280,Tipo Tráfico,4'',,
+CRA 21 # 15-45,San Francisco,1105203,1280590,Tipo Tráfico,4'',,
+CL 32 # 25-31,"Antonia Santos
+centro",1105847,1279648,Tipo Tráfico,4'',,
+TRANS 2A # 53-30 T 2,"Ciudadela Real de
+Minas",1104696,1277467,Tipo Tráfico,4'',,
+CRA 1W # 53-20 INT 8,"Ciudadela Real de
+Minas",1104606,1277465,Tipo Tráfico,4'',,
+CL 27#5-33,Girardot,1104092,1279406,Tipo Milán,3'',,
+CL 13 # 28-38,Universidad,1105876,1280902,Tipo Milán,3'',,
+CRA 32 # 19-68,San Alonso,1106245,1280367,Tipo Tráfico,4'',,
+CRA 41 # 40-131,"Cabecera del
+Llano",1107253,1279632,Tipo Tráfico,4'',,
+CL 44 # 34-42,"Cabecera del
+Llano",1106830,1279215,Tipo Tráfico,4'',,
+CL 45#20 BOMBA PETROBRAS,Centro,1105746,1278803,Tipo Tráfico,4'',,
+CRA 21B CL 116 MZ-N-CASA 14 P 3,"Brisas de
+Provenza",1106224,1274787,Tipo Tráfico,4'',,
+CRA 21B CL 115 MZ H CASA 12 P 1,"Brisas de
+Provenza",1106118,1274719,Tipo Tráfico,4'',,
+TRANS 112 # 20-53,"Granjas de
+Provenza",1105944,1274862,Tipo Tráfico,4'',,
+CRA 32 # 39N-27,Bosconia,1106508,1283006,Tipo Milán,3'',,
+CL 64 # 28-41 BL 13,Conucos,1106630,1277595,Tipo Tráfico,4'',,
+CRA 33 # 69-04,Antonia Santos sur,1106823,1277398,Tipo Tráfico,4'',,
+CRA 27 # 84-18,Diamante II,1106897,1276127,Tipo Tráfico,4'',,
+"CRA 27A # 81-04 MULTIFAMILIAR
+DIAMANTE II",Diamante II,1106832,1276364,Tipo Tráfico,4'',,
+CRA 29 # 93-31 INT 31A,Villa Diamante,1106895,1276523,Tipo Tráfico,4'',,
+CRA 53BW # 32-41 T 4 (MOD.A),Río de Oro I,1101043,1277616,Tipo Tráfico,4'',,
+CRA 54W # 35-14 T 5 (MOD.A),Río de Oro I,1100987,1277465,Tipo Tráfico,4'',,
+CRA 57W # 44-14 T 3,Río de Oro I,1100746,1277085,Tipo Tráfico,4'',,
+TRANS 22A # 87-41,Diamante II,1106493,1276189,Tipo Milán,3'',,
+CL 87 # 24-08,Diamante II,1106634,1276066,Tipo Milán,3'',,
+CRA 21 # 46-20,La Concordia,1105819,1278675,Tipo Tráfico,4'',,
+CRA 27 # 60-16,Ricaurte,1106426,1277791,Tipo Milán,3'',,
+CL 51 # 23-45,Nuevo Sotomayor,1106197,1278493,Tipo Tráfico,4'',,
+CRA 23 # 35-54,"Antonia Santos
+centro",1105768,1279258,Tipo Tráfico,4'',,
+CRA 26N#3,Regadero Norte,1105506,1282190,Tipo Tráfico,4'',,
+CRA 26B # 1N-171 T 3,Regadero Norte,1105447,1282326,Tipo Tráfico,4'',,
+CL 31 # 31-63,La Aurora,1106361,1280059,Tipo Tráfico,4'',,
+CL 37 # 25-48 T SUR,Bólivar,1106070,1279220,Tipo Tráfico,4'',,
+CRA 17#45-107,La Concordia,1105508,1278595,Tipo Tráfico,4'',,
+CL 28A#3-12,Girardot,1103951,1279272,Tipo Milán,3'',,
+CL 58 # 4-71 OF. TRÁNSITO Y MOVILIDAD GIRÓN,"Zona Industrial Autopista a Bucaramanga lado
+sur",1102407,1275165,Tipo Tráfico,4'',,
+CL 57 # 20-06,El Rosal,1103976,1285561,Tipo Milán,3'',,
+CL 35 #22-37,"Antonia Santos
+centro",1105617,1279261,Tipo Tráfico,4'',,
+CL 7 # 23-53,Comuneros,1105280,1281392,Tipo Tráfico,4'',,
+CL 115 # 22-77,Provenza,1106370,1274794,Tipo Milán,3'',,
+CRA 17A # 61-29,La Ceiba,1106051,1277463,Tipo Tráfico,4'',,
+CRA 28 # 19-59,San Alonso,1105919,1280313,Tipo Tráfico,4'',,
+CL 94A # 33-105,El Tejar,1107171,1276672,Tipo Milán,3'',,
+CRA 19 # 17,San Francisco,1105037,1280418,Tipo Tráfico,4'',,
+CL 16 # 19-48,San Francisco,1105075,1280507,Tipo Tráfico,4'',,
+CRA 11#17,Gaitán,1104295,1280313,Tipo Milán,3'',,
+CRA 33A # 30-43,Quinta Dania,1106622,1280220,Tipo Milán,3'',,
+CRA 35 # 13-29,Los Pinos,1106894,1280785,Tipo Milán,3'',,
+CL 22 # 20-24 ANDES 22,Alarcón,1105254,1279958,Tipo Tráfico,4'',,
+CL 18 # 29-22,San Alonso,1106009,1280501,Tipo Tráfico,4'',,
+CL 8 # 19-37,Comuneros,1104919,1281224,Tipo Tráfico,4'',,
+CRA 50 # 54-32,Pan de Azucar,1107691,1278317,Tipo Tráfico,4'',,
+CL 14 # 26-28,San Francisco,1105668,1280816,Tipo Milán,3'',,
+CL 15 # 20-36,San Francisco,1105136,1280617,Tipo Tráfico,4'',,
+CRA 27 # 54-10,Bolarqui,1106340,1278225,Tipo Tráfico,4'',,
+CRA 19 # 65-56,La Victoria,1106150,1277105,Tipo Tráfico,4'',,
+CL 28 # 30-02,La Aurora,1106133,1280088,Tipo Tráfico,4'',,
+CL 30 # 29-06,La Aurora,1106093,1279993,Tipo Tráfico,4'',,
+CL 1N#12-49,Norte Bajo,1103968,1281713,Tipo Tráfico,4'',,
+CL 58 # 32-21,Mercedes,1106803,1277991,Tipo Tráfico,4'',,
+DG 54 # 50-124,Pan de Azucar,1107856,1278858,Tipo Milán,3'',,
+CRA 19#39-35,Centro,1105534,1278881,Tipo Tráfico,4'',,
+CL 27#6,Girardot,1104162,1279418,Tipo Milán,3'',,
+CRA 48 # 30-21,Venado de oro,1107220,1280272,Tipo Tráfico,4'',,
+CL 113 # 22-07,"Granjas de
+Provenza",1106209,1274946,Tipo Tráfico,4'',,
+CRA 13 #43-65,Garcia Rovira,1104984,1278516,Tipo Milán,3'',,
+CRA 39 # 51-14,"Cabecera del
+Llano",1107270,1278725,Tipo Tráfico,4'',,
+CRA 25 # 105-12,Provenza,1106840,1275443,Tipo Tráfico,4'',,
+CRA 41 # 34A-113,"Cabecera del
+Llano",1107318,1279916,Tipo Tráfico,3'',,
+CRA 41 # 34A-15 CASA 1,"Cabecera del
+Llano",1107331,1279962,Tipo Tráfico,3'',,
+CRA 14A#45-71,"Chorreras de Don
+Juan",1105138,1278476,Tipo Milán,4'',,
+CRA 10#56-28 - BODEGAS VEGAS DE VILLAMIZAR,"Zona Industrial Autopista a Bucaramanga lado
+sur",1101510,1275024,Tipo Tráfico,4'',,
+DG 15 #52-61,La Concordia,1105861,1278166,Tipo Tráfico,4'',,
+CRA 21A # 110-11,"Granjas de
+Provenza",1106179,1275030,Tipo Tráfico,4'',,
+CL 114 # 18-26,"Brisas de
+Provenza",1106043,1274785,Tipo Milán,3'',,
+CRA 18 # 11-43,Modelo,1104850,1280876,Tipo Tráfico,4'',,
+CRA 26 # 21-48,San Francisco,1105786,1280087,Tipo Tráfico,4'',,
+CRA 25 # 21-44 CASA 1,San Francisco,1105688,1280119,Tipo Milán,3'',,
+CRA 1A#46,Campo Hermoso,1104129,1277828,Tipo Tráfico,4'',,
+CRA 20#28-30,Alarcón,1105312,1279709,Tipo Tráfico,4'',,
+"VIA BUCARAMANGA-RIONEGRO #
+40- 173 FINCA GETSEMANI",Campestre Norte,1104367,1285153,Tipo Milán,3'',,
+CL 43N # 23-30,Campestre Norte,1104495,1284993,Tipo Tráfico,4'',,
+CRA 22 # 22-73,Alarcón,1105432,1279932,Tipo Tráfico,4'',,
+CL 23N # 12-105,Kennedy,1104108,1283091,Tipo Milán,3'',,
+CRA 12 # 16N-PAR,Kennedy,1104135,1282793,Tipo Tráfico,4'',,
+CL 9ABISN # 10A-24 T 26,Minuto de Dios,1104368,1282343,Tipo Milán,3'',,
+"HOSPITAL DEL NORTE ENTRE
+CRA 9 - CRA10",Tejar Norte,1104176,1282359,Tipo Milán,3'',,
+VIA AL MAR KM 2 # 1-95,Esperanza III,1104623,1282291,Tipo Milán,3'',,
+CL 16#12,Gaitán,1104369,1280423,Tipo Milán,3'',,
+CL  45#1OCC,Campo Hermoso,1103860,1277770,Tipo Tráfico,4'',,
+CL  45 #1A ZONA VERDE,Campo Hermoso,1104090,1277957,Tipo Milán,3'',,
+"CL  41 ENTRE CALLE 4 Y 4A
+CENTRO DE SALUD LA JOYA",Alfonso López,1104209,1278541,Tipo Tráfico,6'',,
+CRA 21 # 46A-31,La Concordia,1105876,1278626,Tipo Milán,3'',,
+CRA 21 # 68-56,La Victoria,1106417,1276940,Tipo Milán,3'',,
+CL 69 # 9-14,Bucaramanga,1105302,1276175,Tipo Milán,3'',,
+CRA 32 # 99A-08,La Libertad,1107174,1276428,Tipo Milán,3'',,
+CL 104F # 8B-44 BL 4,El Porvenir,1104832,1274939,Tipo Milán,3'',,
+CL 104G # 7A-76 T 4,El Porvenir,1104628,1274915,Tipo Milán,3'',,
+"VIA AL MAR CRA 21 # 38N-10 SUB
+ESTACION LOS PALOS",,1104362,1284412,Tipo Milán,3'',,
+CL 104 # 29-15,Diamante I,1107059,1276109,Tipo Milán,3'',,
+CL 24 # 18,Granada,1105083,1279772,Tipo Milán,3'',,
+CRA 25 # 7A-30,Universidad,1105439,1281326,Tipo Tráfico,4'',,
+CRA 38 # 44-08,"Cabecera del
+Llano",1107067,1279236,Tipo Tráfico,4'',,
+CRA 16 # 07,Comuneros,1104662,1281272,Tipo Tráfico,4'',,
+CRA 38 # 45-74,"Cabecera del
+Llano",1107079,1279051,Tipo Milán,3'',,
+AV 38 # 48-12 T.A,"Cabecera del
+Llano",1107057,1278872,Tipo Tráfico,4'',,
+CL 8 # 23-50,Comuneros,1105313,1281285,Tipo Tráfico,4'',,
+CRA 13#59-66 BODEGAS SIÓN 3,La Esmeralda,1101187,1275382,Tipo Tráfico,3'',,
+CL 58#8 - 51,"Zona Industrial Autopista a Bucaramanga lado
+sur",1101933,1275217,Tipo Milán,3'',,
+CL  58#9-24 KM 6,"Zona Industrial Autopista a Bucaramanga lado
+sur",1101659,1275232,Tipo Milán,3'',,
+CL  51 #13A-48,San Miguel,1105114,1277977,Tipo Milán,3'',,
+"CRA 17#37 ESQUINA
+GOBERNACIÓN",Garcia Rovira,1104655,1278822,Tipo Tráfico,4'',,
+CL  34 10-45,Garcia Rovira,1104613,1278978,Tipo Tráfico,4'',,
+CL  45#10 OCC 21,1 de Mayo,1103450,1277317,Tipo Tráfico,4'',,
+CL  45 #4A-66,"Chorreras de Don
+Juan",1104404,1278170,Tipo Milán,3'',,
+CRA 15#31,Don Bosco,1102794,1278207,Tipo Milán,3'',,
+CRA 20 # 24,Alarcón,1105248,1279839,Tipo Milán,3'',,
+CRA 21#31-41,"Antonia Santos
+centro",1105467,1279529,Tipo Tráfico,4'',,
+CL 12 # 20-73 BOMBEROS,Mutualidad,1105131,1280824,Tipo Tráfico,4'',,
+CL 41#18,Centro,1105416,1278838,Tipo Milán,3'',,
+CRA 20#39,Centro,1105626,1278945,Tipo Milán,3'',,
+CRA 15#32-06,Centro,1104946,1279256,Tipo Tráfico,4'',,
+CRA 15#37-13,Centro,1105120,1278885,Tipo Tráfico,4'',,
+CRA 12#13,Gaitán,1104323,1280674,Tipo Tráfico,4'',,
+CL 28 #17,Granada,1105021,1279664,Tipo Milán,3'',,
+CL 29#16,Granada,1104969,1279561,Tipo Milán,3'',,
+CL 26#1 OCC,La Feria,1103559,1279379,Tipo Milán,3'',,
+CL 34#17-53,Centro,1105227,1279218,Tipo Piso,2'',,
+VIA AL MAR KM 2 CL 8N # 15-04,Miramar,1104626,1282246,Tipo Tráfico,4'',,
+CRA 36 # 41-37/ 39,El Prado,1106930,1279406,Tipo Milán,3'',,
+CRA 39 # 44-125 T 2,"Cabecera del
+Llano",1107201,1279173,Tipo Tráfico,4'',,
+CRA 39 # 48-135,"Cabecera del
+Llano",1107262,1278745,Tipo Tráfico,4'',,
+CL 45 # 37-11,"Cabecera del
+Llano",1107040,1279146,Tipo Tráfico,4'',,
+CRA 8W # 41-88,Campo Hermoso,1103371,1277629,Tipo Milán,3'',,
+CRA 9AW # 44-03,Campo Hermoso,1103428,1277511,Tipo Milán,3'',,
+CRA 9BW # 41-01,Campo Hermoso,1103277,1277501,Tipo Milán,3'',,
+CRA 10W # 50-137,Charta,1103728,1277044,Tipo Milán,3'',,
+CL 55 # 25-12,Colorados,1104548,1285671,Tipo Milán,3'',,
+CL 72 # 31-36 SOL II ET,"Quebrada La
+iglesia",1106995,1277227,Tipo Milán,2'',,
+DG 32 # 33A-119,Quinta Brigada,1106833,1280337,Tipo Milán,4'',,
+CRA 51 # 73-99 CASA 4,Lagos del Cacique,1108005,1277126,Tipo Milán,3'',,
+"CL 100 # 36-39 CASA 61 URB EL
+GIRASOL",El Tejar,1107561,1276531,Tipo Milán,3'',,
+CL 51 # 23-60,Nuevo Sotomayor,1106212,1278486,Tipo Milán,4'',,
+CRA 26 # 18-79,San Francisco,1105716,1280362,Tipo Milán,4'',,
+CL 74 # 53-23,Lagos del Cacique,1108204,1277104,Tipo Milán,4'',,
+CL 74 # 52-90,Lagos del Cacique,1108176,1277123,Tipo Tráfico,4'',,
+CL 51 # 26A-20,Nuevo Sotomayor,1106289,1278649,Tipo Milán,4'',,
+CL 106 # 26A-05 T 2,Provenza,1107050,1275589,Tipo Milán,4'',,
+CRA 49 # 53-200,Pan de Azucar,1107648,1278340,Tipo Tráfico,4'',,
+CL 35 # 27-79,Mejoras Públicas,1106216,1279503,Tipo Tráfico,4'',,
+TRANS 93 # 34-180 T 5,El Tejar,1107105,1276979,Tipo Tráfico,6'',,
+CL 35 # 23-51,"Antonia Santos
+centro",1105800,1279325,Tipo Milán,4'',,
+CL 100 # 36-42 T 9,El Tejar,1107599,1276485,Tipo Milán,3'',,
+AV EL TEJAR # 35-99,El Tejar,1107530,1276478,Tipo Milán,3'',,
+VIA PALENQUE-CAFE KM 2,Río de Oro II,1100829,1276847,Tipo Tráfico,4'',,
+CL 28 # 7-58,Girardot,1104332,1279353,Tipo Milán,3'',,
+CRA 14 # 51-18,San Miguel,1105194,1277988,Tipo Milán,3'',,
+CL 68 # 16-07,La Victoria,1106162,1276831,Tipo Milán,3'',,
+CRA 13 # 200-127 T 1,Bolarqui,1106413,1278320,Tipo Tráfico,4'',,
+VIA CAFE MADRID # 2-58,13 de Junio,1104479,1282563,Tipo Tráfico,4'',,
+CL 36#27-79,Mejoras Públicas,1106238,1279406,Tipo Tráfico,4'',,
+CRA 27 # 36-07,Mejoras Públicas,1106173,1279353,Tipo Tráfico,4'',,
+CRA 17A # 55-62,La Concordia,1105855,1277864,Tipo Tráfico,4'',,
+CRA 33 # 86-76 T 2,San Martin,1107020,1276910,Tipo Tráfico,4'',,
+CL 28 # 31-22,La Aurora,1106233,1280164,Tipo Tráfico,4'',,
+CRA 49 # 72-31 QUINTA 35,El Tejar,1107679,1277373,Tipo Tráfico,4'',,
+"CIRCUN 35 # 72-95 SALA DE
+VENTAS",El Tejar,1107524,1277085,Tipo Tráfico,4'',,
+CL 7N # 1-63 B.MIRAMAR,Miramar,1104621,1282141,Tipo Tráfico,4'',,
+BV EL TEJAR # 35-95,El Tejar,1107563,1276776,Tipo Milán,4'',,
+CRA 48 # 53-56,Terrazas,1107498,1278364,Tipo Milán,3'',,
+CL 47 # 10W,Campo Hermoso,1103481,1277148,Tipo Milán,3'',,
+CALLE 19N CRA 21AN,Villa Helena II,1104853,1283061,Tipo Milán,3'',,
+CRA 24 # 33A-28,"Antonia Santos
+centro",1105789,1279448,Tipo Tráfico,4'',,
+CALLE 56 CRA 30,Mercedes,1106719,1278025,Tipo Milán,3'',,
+"CL 105 # 5-06 LADRILLERA
+BAUTISTA",,1103894,1274654,Tipo Tráfico,4'',,
+CALLE 34 CRA 34 ESQUINA,"Cabecera del
+Llano",1106809,1279102,Tipo Milán,3'',,
+CRA 35A CALLE 46 ESQUINA,"Cabecera del
+Llano",1106933,1279018,Tipo Tráfico,4'',,
+CALLE 53 CRA 21,La Concordia,1106082,1278217,Tipo Milán,3'',,
+CRA 20 CALLE 104,Provenza,1106050,1275457,Tipo Milán,3'',,
+VIA GIRON KM 4 PRONALCI S.A.,"Quebrada La
+iglesia I",1103769,1275543,Tipo Milán,3'',,
+CRA 23 # 105-08,Provenza,1106503,1275361,Tipo Tráfico,4'',,
+CALLE 111 # 23B-52,Provenza,1106480,1274998,Tipo Tráfico,4'',,
+CRA 20F # 43N-71,Colorados,1104253,1285232,Tipo Milán,3'',,
+CRA 26B # 1N-193,Regadero Norte,1105433,1282434,Tipo Tráfico,4'',,
+CRA 14W # 60-36,Brisas del Mutis,1104194,1276528,Tipo Milán,3'',,
+CRA 30 # 11 ESTADIO,San Alonso,1106027,1281094,Tipo Tráfico,4'',,
+"CL 39#22 ESQUINA PARQUE
+BOLÍVAR",Bólivar,1105787,1279014,Tipo Milán,3'',,
+CRA 40 # 48-33,"Cabecera del
+Llano",1107309,1278833,Tipo Tráfico,4'',,
+AVENIDA 42 # 48-86,"Cabecera del
+Llano",1107350,1278820,Tipo Milán,3'',,
+CALLE 32 # 31-58,Mejoras Públicas,1106422,1279951,Tipo Tráfico,4'',,
+CRA 22 CALLE 107,Provenza,1106299,1275247,Tipo Tráfico,4'',,
+CRA 22 CALLE 115,Provenza,1106279,1274798,Tipo Tráfico,4'',,
+CALLE 42 # 29-50,Mejoras Públicas,1106597,1279272,Tipo Tráfico,4'',,
+CRA 20H # 41N,Campestre Norte,1104270,1285043,Tipo Tráfico,4'',,
+CALLE 17N # 34A-07,Los Angeles,1105384,1282842,Tipo Milán,3'',,
+CRA 43 # 32-107,"Alvarez las
+Américas",1107043,1280082,Tipo Tráfico,4'',,
+CRA 40 # 32A-17,"Alvarez las
+Américas",1106969,1280015,Tipo Tráfico,4'',,
+CALLE 65 # 18-49,La Victoria,1106113,1277144,Tipo Milán,3'',,
+CRA 17A # 58-79,Ricaurte,1105964,1277629,Tipo Tráfico,4'',,
+CALLE52#54-41,Pan de Azucar,1107958,1278783,Tipo Milán,3'',,
+CRA35 # 64-03,Monterredondo,1103767,1275983,Tipo Tráfico,3'',,
+CALLE 65 # 30W-09,Monterredondo,1103916,1275941,Tipo Tráfico,3'',,
+CALLE 10 CRA 36,Los Pinos,1106958,1281035,Tipo Milán,2'',,
+CALLE 58 # 9-24,12 de Octubre,1101669,1275236,Tipo Tráfico,3'',,
+CALLE 56 # 8-47,12 de Octubre,1101938,1275227,Tipo Tráfico,3'',,
+CALLE 56 # 7-10,12 de Octubre,1102105,1275217,Tipo Milán,3'',,
+CALLE 70 CRA 43,12 de Octubre,1103682,1275461,Tipo Milán,3'',,
+CALLE 70  CRA40,12 de Octubre,1104196,1275699,Tipo Milán,3'',,
+CRA 22 # 11-82,San Francisco,1105226,1280921,Tipo Milán,3'',,
+MANZANA F PASEO DE LA FERIA,La Feria,1103557,1279384,Tipo Milán,3'',,
+CRA11 # 27-04,Don Bosco,1103339,1278743,Tipo Milán,3'',,
+CALKE 1 # 17-04,Transición,1104596,1281864,Tipo Milán,3'',,
+CRA 13 # 27-05,Santander,1103211,1278691,Tipo Milán,3'',,
+CRA15 OCC # 31 OCC-06,Don Bosco,1102808,1278212,Tipo Milán,3'',,
+CALLE 37 # 1OCC-37,La Joya,1103842,1278308,Tipo Milán,3'',,
+CALLE 19 CRA 21,Villa Helena II,1104859,1283068,Tipo Milán,3'',,
+CAFE MADRID,Café Madrid,1103466,1283772,Tipo Milán,3'',,
+CALLE 52 #54-41,Pan de Azucar,1107957,1278783,Tipo Milán,3'',,
+DIAG 52 # 50-118,Pan de Azucar,1107856,1278859,Tipo Milán,3'',,
+CALLE 3N # 17B-08,La Juventud,1104647,1281930,Tipo Milán,3'',,
